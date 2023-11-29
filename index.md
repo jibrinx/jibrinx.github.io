@@ -4,12 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
 
+I'm the Principal Machine learning Scientist at <a href="https://greysoft.ng">Greysoft Technologies</a> in Nigeria, where I lead a small team that mostly works on cross-lingual translation of low-resource languages particularly the Hausa Language.  I received a MSc in Artificial Intelligence from Loughborough University London and a BSc in Computer Science from the University of Jos, Nigeria.
+
+Feel free email me for research, collaborations, or a casual chat. I especially encourage junior, disadvantaged, or underrepresented students to reach out. Also, consider giving me anonymous <a href="https://ngl.link/jibrinx">feedback</a>
+                  
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I am a budding researcher with a polymath of interests revolving around:
+- **Interdisciplinary research:** medical image analysis, botanical image analysis,economics and computation and computational neuroscience.
+- **Machine Learning:** multi-agent RL, representational learning, geometric deep learning, transfer learning, and responsible AI.
 
 ## News
 
