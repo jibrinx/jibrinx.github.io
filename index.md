@@ -11,7 +11,7 @@ Feel free email me for research, collaborations, or a casual chat. I especially 
                   
 ## Research Interests
 I am a budding researcher with a polymath of interests revolving around:
-- ** multi-agent RL, multi-modal representational learning, geometric deep learning, transfer learning, responsible AI, medical image analysis, botanical image analysis,economics and computation and computational neuroscience**.
+- multi-agent RL, multi-modal representational learning, geometric deep learning, transfer learning, responsible AI, medical image analysis, botanical image analysis,economics and computation and computational neuroscience.
 
 ## News
 
