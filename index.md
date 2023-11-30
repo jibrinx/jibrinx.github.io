@@ -23,5 +23,5 @@ I am a budding researcher with a polymath of interests revolving around:
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
-<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-c6da1505-42b2-4226-a777-874a69f6087d" data-elfsight-app-lazy></div>
+ <a href='https://www.free-counters.org/'>free Counters on Free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5b8d4df4be293ef91832d92a0d82060c45208b75'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1109286/t/0"></script>
