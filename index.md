@@ -23,5 +23,5 @@ I am a budding researcher with a polymath of interests revolving around:
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
- <a href='https://www.free-counters.org/'>free Counters on Free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5b8d4df4be293ef91832d92a0d82060c45208b75'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1109286/t/0"></script>
+ <a href='https://www.free-counters.org/'>Total visits since creation</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=0411e39de56cdd30e8bb498459e0a65deb5e5167'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1109287/t/3"></script>
