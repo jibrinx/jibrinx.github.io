@@ -7,7 +7,7 @@ main:
     pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
     code: https://github.com/jibrinx/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/Towards increas 0.png
     notes: Poster Accepted
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
