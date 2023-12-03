@@ -32,7 +32,7 @@ main:
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Reinforcement Learning Coursework
+    notes: Reinforcement Learning coursework
     image: ./assets/img/deepq.jpg
 
 
@@ -68,5 +68,5 @@ main:
     # code: https://github.com/jibrinx/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/malaria.jpg
-    notes: Mathematical Modelling Coursework
+    notes: Mathematical Modelling coursework
 
