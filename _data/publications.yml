@@ -39,7 +39,7 @@ main:
   - title: Robust identification of fall army worm infestation on maize fields of small African farmholders. 
     authors: This study focuses on the robust identification of fall army worm infestation in maize fields owned by small African farmholders. The research aims to develop effective methods for accurately and reliably detecting the presence of fall army worm infestations, addressing a significant threat to the agricultural productivity of small-scale farmers in Africa. The findings of this study are crucial for implementing timely and targeted interventions to mitigate the impact of fall army worm infestations on maize crops, thereby contributing to the resilience and sustainability of smallholder farming in the region.
     conference_short: 21LLP501
-    conference: <strong>MSc Dissertation</strong>
+    #conference: <strong>MSc Dissertation</strong>
     # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
     # code: https://github.com/jibrinx/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -51,10 +51,21 @@ main:
   - title: Semi-supervised fabric defect detection based on image reconstruction and density estimation.
     authors: Defective products are a major contributor toward a decline in profits in textile industries. Hence, there are compelling needs for an automated inspection system to identify and locate defects on the fabric surface. Although much effort has been made by researchers worldwide, there are still challenges with computation and accuracy in the location of defects. In this paper, we propose a hybrid semi-supervised method for fabric defect detection based on variational autoencoder (VAE) and Gaussian mixture model (GMM). The VAE model is trained for feature extraction and image reconstruction while the GMM is used to perform density estimation. By synthesizing the detection results from both image content and latent space, the method can construct defect region boundaries more accurately, which are useful in fabric quality evaluation. The proposed method is validated on AITEX and DAGM 2007 public database. Results demonstrate that the method is qualified for automated detection and outperforms other selected methods in terms of overall performance.
     conference_short: 21LLP133
-    conference:  <strong>Advance Big Data Analytics</strong>
+    #conference:  <strong>Advance Big Data Analytics</strong>
     # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
     # code: https://github.com/jibrinx/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Towards increas 0.png
     notes: Advance Big Data Analytics coursework
+
+
+  - title: Mathematical Modelling of Anti-Malaria Drug resistance.
+    authors: I focused on developing a comprehensive model for anti-malaria drug resistance. This involved a thorough examination of parasite population dynamics, drug treatment impacts, host immune responses, and various epidemiological factors. My findings contributed to the formulation of effective strategies for combating drug-resistant malaria.
+    conference_short: MTH308
+    #conference: <strong>Mathematical Modelling</strong>
+    # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
+    # code: https://github.com/jibrinx/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Towards increas 0.png
+    notes: Mathematical Modelling Coursework
 
