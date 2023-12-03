@@ -45,3 +45,16 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Towards increas 0.png
     notes: MSc Dissertation
+
+
+
+  - title: Semi-supervised fabric defect detection based on image reconstruction and density estimation.
+    authors: Defective products are a major contributor toward a decline in profits in textile industries. Hence, there are compelling needs for an automated inspection system to identify and locate defects on the fabric surface. Although much effort has been made by researchers worldwide, there are still challenges with computation and accuracy in the location of defects. In this paper, we propose a hybrid semi-supervised method for fabric defect detection based on variational autoencoder (VAE) and Gaussian mixture model (GMM). The VAE model is trained for feature extraction and image reconstruction while the GMM is used to perform density estimation. By synthesizing the detection results from both image content and latent space, the method can construct defect region boundaries more accurately, which are useful in fabric quality evaluation. The proposed method is validated on AITEX and DAGM 2007 public database. Results demonstrate that the method is qualified for automated detection and outperforms other selected methods in terms of overall performance.
+    conference_short: 21LLP133
+    conference:  <strong>Advance Big Data Analytics</strong>
+    # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
+    # code: https://github.com/jibrinx/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Towards increas 0.png
+    notes: Advance Big Data Analytics coursework
+
