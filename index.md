@@ -24,7 +24,7 @@ I am a budding researcher with a polymath of interests revolving around:
 - **[Feb. 2023]** Started a new position as ML Engineer at <a href="https://greysoft.ng">Greysoft Technologies</a>
 - **[Dec. 2022]** Bagged an MSc degree in AI and Data Analytics from <a href="https://www.lborolondon.ac.uk/study/masters-degrees/artificial-intelligence-data-analytics/"> Loughborough University London </a>.
 
-<!--- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
 <!---{% include_relative _includes/services.md %} -->
 <p>Total site visits<a href='https://www.free-counters.org/'>Total site visits</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=0411e39de56cdd30e8bb498459e0a65deb5e5167'></script>
