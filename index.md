@@ -13,7 +13,7 @@ My favourite quote is... <span style="color:indigo;">Sincerity is a better "pers
 
 Last but not least, I appreciate you taking the time to surf the internet this far to check up on and to read a bit of my story. I encourage you to say hello before you leave for our interesting conversations to come.. Also, consider giving me an  <a href="https://ngl.link/jibrinx">anonymous feedback</a>
                   
-## Research Interests[Currently loking for a PhD]
+## Research Interests[Currently loking for a PhD Opportunity]
 I am a budding researcher with a polymath of interests revolving around:
 - multi-agent RL, multi-modal representational learning, geometric deep learning, fair ML, responsible AI, and explainable AI
 
