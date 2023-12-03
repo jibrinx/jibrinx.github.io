@@ -10,7 +10,7 @@ K43 project: K43TW011416) aimed at increasing cervical cancer screening intake a
 
 Apart from my evident passion for research, I find great pleasure in both watching and actively participating in various sports, with a particular fondness for football. My allegiance to Arsenal FC remains unwavering, rooted in my admiration for Thierry Henry (Gunner's Greatest of all Times) since my childhood; his journey aligning with my steadfast support for the club to this day.
 
-I have two favourite quotes:...<span style="color:indigo;"> If you do not strive for excellence in your endeavours, you have lost your purpose. </span> and <span style="color:indigo;">Sincerity is a better "persuasion tactic" than any trick you can learn. </span>
+I have two favourite quotes:...<span style="color:indigo;"> "If you do not strive for excellence in your endeavours, you have lost your purpose." </span> and <span style="color:indigo;">"Sincerity is a better 'persuasion tactic' than any trick you can learn." The first quote is by <a href="https://manzomaigari.com/#/">Dr. Manzo Maigari</a> while the latter is by <a href="https://twitter.com/mmay3r/status/1336432412285231104">Michael</a></span>
 
 Last but not least, I appreciate you taking the time to surf the internet this far to check up on and to read a bit of my story. I encourage you to say hello before you leave for our interesting conversations to come.. Also, consider giving me an  <a href="https://ngl.link/jibrinx">anonymous feedback</a>
                   
