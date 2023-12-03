@@ -9,9 +9,11 @@ I am the Principal Machine Learning Engineer at <a href="https://greysoft.ng">Gr
 
 Apart from my evident passion for research, I find great pleasure in both watching and actively participating in various sports, with a particular fondness for football. My allegiance to Arsenal FC remains unwavering, rooted in my admiration for Thierry Henry (Gunner's Greatest of all Times) since my youth; his journey aligning with my steadfast support for the club to this day.
 
+favourite quote:   <span style="color:indigo;">Sincerity is a better "persuasion tactic" than any trick you can learn... </span>
+
 Last but not least, I appreciate you taking the time to surf the internet this far to check up on and to read a bit of my story. I encourage you to say hello before you leave for our interesting conversations to come.. Also, consider giving me an  <a href="https://ngl.link/jibrinx">anonymous feedback</a>
                   
-## Research Interests
+## Research Interests[Currently loking for PhD]
 I am a budding researcher with a polymath of interests revolving around:
 - multi-agent RL, multi-modal representational learning, geometric deep learning, fair ML, responsible AI, and explainable AI
 
