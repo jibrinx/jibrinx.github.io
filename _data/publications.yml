@@ -9,12 +9,12 @@ main:
     # code: https://github.com/jibrinx/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Towards increas 0.png
-    notes: Poster Accepted
+    notes: Conference Poster [Accepted]
 
   - title: "Collaborative project with WeAreTheNews startup"
     authors: As the unit team lead for the collaborative project between Loughborough university London and WeAreTheNews startup (https://www.wearethenews.com), I championed ideas on 1. The integration of blockchain in news to revolutionise transparency, ownership, and monetization. 2. Enhancing news article credibility by ensuring the immutability of news articles. 3. Smart contracts to automate fair revenue distribution 4. Proposed the WATN coin to enable micropayments for precise content consumption. 5. Developed measures to ensure GDPR compliance.
     conference_short: 21LLP008
-    conference: Collaborative Project
+    #conference: Collaborative Project
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -26,10 +26,22 @@ main:
   - title: "Deep Q network for optimal irrigation scheduling in Northern Nigeria"
     authors: "Deep reinforcement learning holds significant promise for optimizing irrigation scheduling in diverse cropping systems. By adapting water amounts based on multiple measurements, the framework aims to uncover an intelligent decision rule, demonstrated effectively through a case study in Australian wheat farming, maximizing profits. The versatile model, tested in Goondiwindi, applies to various cropping systems, addressing realistic optimization challenges."    # conference_short: CVPR
     conference_short: 21LLP131
-    conference: Reinforcement Learning
+    #conference: Reinforcement Learning
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Reinforcement Learning Coursework
     image: ./assets/img/teaser_example.png
+
+
+
+  - title: Robust identification of fall army worm infestation on maize fields of small African farmholders. 
+    authors: This study focuses on the robust identification of fall army worm infestation in maize fields owned by small African farmholders. The research aims to develop effective methods for accurately and reliably detecting the presence of fall army worm infestations, addressing a significant threat to the agricultural productivity of small-scale farmers in Africa. The findings of this study are crucial for implementing timely and targeted interventions to mitigate the impact of fall army worm infestations on maize crops, thereby contributing to the resilience and sustainability of smallholder farming in the region.
+    conference_short: 21LLP501
+    conference: <strong>MSc Dissertation</strong>
+    # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
+    # code: https://github.com/jibrinx/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Towards increas 0.png
+    notes: MSc Dissertation
