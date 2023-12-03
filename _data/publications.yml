@@ -1,3 +1,4 @@
+
 main:
 
   - title: Towards increasing cervical cancer screening uptake and reducing mortality rates in Nigeria.
@@ -11,12 +12,12 @@ main:
     notes: Poster Accepted
 
   - title: "Collaborative project with WeAreTheNews startup"
-    authors: As the unit team lead for the collaborative project between Loughborough university London and WeAreTheNews startup (https://www.wearethenews.com), I championed ideas on the
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    authors: As the unit team lead for the collaborative project between Loughborough university London and WeAreTheNews startup (https://www.wearethenews.com), I championed ideas on 1. The integration of blockchain in news to revolutionise transparency, ownership, and monetization. 2. Enhancing news article credibility by ensuring the immutability of news articles. 3. Smart contracts to automate fair revenue distribution 4. Proposed the WATN coin to enable micropayments for precise content consumption. 5. Developed measures to ensure GDPR compliance.
+    # conference_short: CVPR
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Collaborative Project
     image: ./assets/img/teaser_example.png
