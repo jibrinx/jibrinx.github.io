@@ -21,7 +21,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Collaborative Project
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/watn.png
     
   - title: "Deep Q network for optimal irrigation scheduling in Northern Nigeria"
     authors: "Deep reinforcement learning holds significant promise for optimizing irrigation scheduling in diverse cropping systems. By adapting water amounts based on multiple measurements, the framework aims to uncover an intelligent decision rule, demonstrated effectively through a case study in Nigeria wheat farming, maximizing profits. The versatile model, tested in Kaduna, applies to various cropping systems, addressing realistic optimization challenges."    
@@ -33,7 +33,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Reinforcement Learning Coursework
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/deepq.jpg
 
 
 
@@ -44,7 +44,7 @@ main:
     # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
     # code: https://github.com/jibrinx/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Towards increas 0.png
+    image: ./assets/img/fallarmy.jpg
     notes: MSc Dissertation
 
 
@@ -56,7 +56,7 @@ main:
     # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
     # code: https://github.com/jibrinx/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Towards increas 0.png
+    image: ./assets/img/text.png
     notes: Advance Big Data Analytics coursework
 
 
@@ -67,6 +67,6 @@ main:
     # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
     # code: https://github.com/jibrinx/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Towards increas 0.png
+    image: ./assets/img/malaria.jpg
     notes: Mathematical Modelling Coursework
 
