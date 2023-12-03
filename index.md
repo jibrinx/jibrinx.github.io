@@ -17,7 +17,7 @@ Last but not least, I appreciate you taking the time to surf the internet this f
 I am a budding researcher with a polymath of interests revolving around:
 - multi-agent RL, multi-modal representational learning, geometric deep learning, fair ML, responsible AI, and explainable AI
 
-## News
+## Recent News
 
 - **[Aug. 2023]** Delivered a keynote address at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies</a>
 - **[Jul. 2023]** Assume the position of CEO and Co-Founder of 5Minutes!
