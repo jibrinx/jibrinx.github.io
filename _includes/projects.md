@@ -1,4 +1,4 @@
-{% for link in site.data.projects.main %}
+{% for link in site.data.publications.main %}
 
 {% if link.image %}   {% endif %} {% if link.conference_short %} {{ link.conference_short }} {% endif %}
 {{ link.title }}
