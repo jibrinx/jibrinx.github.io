@@ -17,7 +17,7 @@ Two quotes that resonate with me are, <span style="color:indigo;"> "If you do no
 I appreciate your interest in reading a snippet of my story. Feel free to say hello and engage in interesting conversations. Also, consider providing <a href="https://ngl.link/jibrinx">anonymous feedback</a> before you leave.
 
                   
-## Research Interests [Currently seeking for a PhD Opportunities]
+## Research Interests [Currently seeking for a PhD Opportunity]
 I am a budding researcher with a polymath of interests revolving around:
 - multi-agent RL, multi-modal representational learning, NLP & computer vision, geometric deep learning, fair ML, responsible AI, and explainable AI.
 
