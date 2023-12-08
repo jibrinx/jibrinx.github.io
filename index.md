@@ -23,7 +23,7 @@ I am a budding researcher with a polymath of interests revolving around:
 
 ## Recent News
 
-- **[Aug. 2023]** I delivered a keynote address at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies</a>
+- **[Aug. 2023]** I delivered a keynote speech at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies</a>
 - **[Jul. 2023]** I started a new position of CEO and Co-Founder of 5Minutes!
 - **[Feb. 2023]** I started a new position as ML Engineer at <a href="https://greysoft.ng">Greysoft Technologies</a>
 - **[Dec. 2022]** I bagged an MSc degree in AI and Data Analytics from <a href="https://www.lborolondon.ac.uk/study/masters-degrees/artificial-intelligence-data-analytics/"> Loughborough University London </a>.
