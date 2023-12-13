@@ -12,7 +12,7 @@ I am an active member of <a href="http://www.sigecom.org">ACM Special Interest G
 
 Beyond my professional pursuits, I derive immense pleasure from both watching and participating in various sports, especially football. My unwavering allegiance to <a href="https://www.arsenal.com">Arsenal FC</a> is rooted in my childhood admiration for <a href="https://www.footballhistory.org/player/thierry-henry.html">Thierry Henry,</a> whom I consider Gunner's Greatest of all Times.
 
-Two quotes that resonate with me are, <span style="color:white;"> "If you do not strive for excellence in your endeavours, you have lost your purpose." </span> by <a href="https://manzomaigari.com/#/">Dr. Manzo Maigari</a>, and <span style="color:white;"> "Sincerity is a better 'persuasion tactic' than any trick you can learn," by <a href="https://twitter.com/mmay3r/status/1336432412285231104">Michael.</a> </span>
+Two quotes that resonate with me are, <i> "If you do not strive for excellence in your endeavours, you have lost your purpose."<i> by <a href="https://manzomaigari.com/#/">Dr. Manzo Maigari</a>, and <strong> <i>"Sincerity is a better 'persuasion tactic' than any trick you can learn,"</i> </strong> by <a href="https://twitter.com/mmay3r/status/1336432412285231104">Michael.</a>
 
 I appreciate your interest in reading a snippet of my story so far. Feel free to say hello and engage in interesting conversations. Also, consider giving me an<a href="https://ngl.link/jibrinx">anonymous feedback</a> before you leave.
 
@@ -31,5 +31,5 @@ I am a budding researcher with a polymath of interests revolving around:
 
 {% include_relative _includes/publications.md %}
 <!--{% include_relative _includes/services.md %} -->
-<p>Total site visits<a href='https://www.free-counters.org/'>visits</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=0411e39de56cdd30e8bb498459e0a65deb5e5167'></script>
+<p>Total site visits<a href='https://www.free-counters.org/'>vsts</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=0411e39de56cdd30e8bb498459e0a65deb5e5167'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1109287/t/3"></script></p> 
