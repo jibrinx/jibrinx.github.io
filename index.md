@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Last updated: 22-09-2023]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Last updated: 22-10-2023]
 ## About Me
 
 I currently serve as the Principal Machine Learning Engineer at <a href="https://greysoft.ng">Greysoft Technologies</a> in Nigeria, where I lead a small team of ML Engineers at the GreyAI Lab. Our primary focus is on cross-lingual translation, particularly for low-resource languages like Hausa. Additionally, I hold the position of CEO and Co-founder of 5Minutes at <a href="https://greysoft.ng">Greysoft Technologies</a>. 5Minutes is a mentor-mentee platform emphasizing brevity in content (videos, texts) without compromising depth.
@@ -12,14 +12,14 @@ I am an active member of <a href="http://www.sigecom.org">ACM Special Interest G
 
 Beyond my professional pursuits, I derive immense pleasure from both watching and participating in various sports, especially football. My unwavering allegiance to <a href="https://www.arsenal.com">Arsenal FC</a> is rooted in my childhood admiration for <a href="https://www.footballhistory.org/player/thierry-henry.html">Thierry Henry,</a> whom I consider Gunner's Greatest of all Times.
 
-Two quotes that resonate with me are, <strong><i> "If you do not strive for excellence in your endeavours, you have lost your purpose."<i> </strong> by <a href="https://manzomaigari.com/#/">Dr. Manzo Maigari</a>, and <strong> <i>"Sincerity is a better 'persuasion tactic' than any trick you can learn,"</i> </strong> by <a href="https://twitter.com/mmay3r/status/1336432412285231104">Michael.</a>
+Two quotes that resonate with me are, <strong><i> "If you do not strive for excellence in your endeavours, you have lost your purpose."</i> </strong> by <a href="https://manzomaigari.com/#/">Dr. Manzo Maigari</a>, and <strong> <i>"Sincerity is a better 'persuasion tactic' than any trick you can learn,"</i> </strong> by <a href="https://twitter.com/mmay3r/status/1336432412285231104">Michael.</a>
 
 I appreciate your interest in reading a snippet of my story so far. Feel free to say hello and engage in interesting conversations. Also, consider giving me an<a href="https://ngl.link/jibrinx">anonymous feedback</a> before you leave.
 
                   
 ## Research Interests
 I am a budding researcher with a polymath of interests revolving around:
-- hci, multi-agent RL, multi-modal representational learning, NLP & computer vision, geometric deep learning, fair ML, responsible AI, and explainable AI.
+- multi-agent RL, multi-modal representational learning, NLP & computer vision, geometric deep learning, fair ML, responsible AI, and explainable AI.
 
 ## Recent News
 
