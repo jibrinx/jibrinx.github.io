@@ -29,8 +29,9 @@ I am a budding researcher with a polymath of interests revolving around:
 - **[Feb. 2023]** I started a new position as ML Engineer at <a href="https://greysoft.ng">Greysoft Technologies.</a>
 - **[Dec. 2022]** I bagged an MSc degree in AI and Data Analytics from <a href="https://www.lborolondon.ac.uk/study/masters-degrees/artificial-intelligence-data-analytics/"> Loughborough University London. </a>
 - **[Jul. 2020]** I presented a virtual poster of my undergraduate work on cervical cancer at the 21st ACM conference on economics and computation, EC 2020 in Budapest. <a href="https://ec20.sigecom.org/program/posters/"> link to poster</a>
-- **[Jun. 2020]** I presented my undergraduate project on cervical cancer at the Data Science Africa workshop, Kampala 2020 <a href="https://www.datascienceafrica.org/dsa2020kampala/schedule/#session-paper1">Link here</a>
+- **[Jun. 2020]** I presented my undergraduate project on cervical cancer at the Data Science Africa workshop, Kampala 2020 <a href="https://www.datascienceafrica.org/dsa2020kampala/schedule/#session-paper1">Link to event</a>
 - **[Nov. 2018]** I led the Golden Halo team to 2018 NASA space apps challenge (Nigeria online qualification round) to 1st runners up victory <a href="https://2018.spaceappschallenge.org/challenges/what-world-needs-now/health-makes-wealth/teams/golden-halo-1/project/">See challenge.</a>
+
 {% include_relative _includes/publications.md %}
 <!--{% include_relative _includes/services.md %} -->
 <p>Total site visits<a href='https://www.free-counters.org/'>vsts</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=0411e39de56cdd30e8bb498459e0a65deb5e5167'></script>
