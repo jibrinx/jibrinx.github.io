@@ -34,5 +34,7 @@ I am a budding researcher with a polymath of interests revolving around:
 
 {% include_relative _includes/publications.md %}
 <!--{% include_relative _includes/services.md %} -->
-<p>Total site visits<a href='https://www.free-counters.org/'>vsts</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=0411e39de56cdd30e8bb498459e0a65deb5e5167'></script>
+<a href='https://www.free-counters.org/'>site visits</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=0411e39de56cdd30e8bb498459e0a65deb5e5167'></script>
+
+
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1109287/t/3"></script></p> 
