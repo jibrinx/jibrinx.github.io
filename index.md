@@ -19,7 +19,7 @@ I appreciate your interest in reading a snippet of my story so far. Feel free to
                   
 ## Research Interests
 I am a budding researcher with a polymath of interests revolving around:
-- biodiversity informatics, AI for good, computational epidemiology, multi-agent RL, multi-modal representational learning, Time series models & forecasting, NLP & computer vision, geometric deep learning, fair ML, responsible AI, and explainable AI.
+- AI for good, computational epidemiology, multi-agent RL, multi-modal representational learning, Time series models & forecasting, NLP & computer vision, geometric deep learning, fair ML, responsible AI, and explainable AI.
 
 ## Recent News
 
