@@ -18,8 +18,8 @@ I appreciate your interest in reading a snippet of my story so far. Feel free to
 
                   
 ## Research Interests
-I am a budding researcher with a polymath of interests revolving around:
-- AI for social good, digital oncology, computational epidemiology, multi-agent RL, intervention prioritization, effective altruism, mechanism design, geometric deep learning, fair ML, responsible AI, and explainable AI.
+I am a budding researcher and an effective altruist who is passionate about developing sustainable solutions to social issues in Africa and has a polymath of interests revolving around:
+- AI for social good, ML for Health especially in low-resource contexts, Computational Epidemiology and Forecasting, Digital oncology, Startups and Innovation, Responsible AI and ethics, Multi-agent RL, Geometric Deep learning, and Representational learning.
 
 ## Recent News
 
