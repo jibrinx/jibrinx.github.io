@@ -14,7 +14,7 @@ Beyond my professional pursuits, I derive immense pleasure from both watching an
 
 Two quotes that resonate with me are, <strong><i> "If you do not strive for excellence in your endeavours, you have lost your purpose."</i> </strong> by <a href="https://manzomaigari.com/#/">Dr. Manzo Maigari</a>, and <strong> <i>"Sincerity is a better 'persuasion tactic' than any trick you can learn,"</i> </strong> by <a href="https://twitter.com/mmay3r/status/1336432412285231104">Michael.</a>
 
-I appreciate your interest in reading a snippet of my story so far. Feel free to say hello and engage in interesting conversations. Also, consider giving me an <a href="https://ngl.link/jibrinx">anonymous feedback</a> before you leave.
+I appreciate your interest in reading this snippet. Feel free to say hello <a href="https://ngl.link/jibrinx">here</a> before you leave.
 
                   
 ## Research Interests
