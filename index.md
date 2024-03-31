@@ -14,7 +14,7 @@ Beyond my professional pursuits, I derive immense pleasure from both watching an
 
 Two quotes that resonate with me are, <strong><i> "If you do not strive for excellence in your endeavours, you have lost your purpose."</i> </strong> by <a href="https://manzomaigari.com/#/">Dr. Manzo Maigari</a>, and <strong> <i>"Sincerity is a better 'persuasion tactic' than any trick you can learn,"</i> </strong> by <a href="https://twitter.com/mmay3r/status/1336432412285231104">Michael.</a>
 
-I appreciate your interest in reading this snippet. Feel free to say hello <a href="https://ngl.link/jibrinx">here</a> before you leave.
+I appreciate your interest in reading this snippet. Feel free to say hello or ask me anything <a href="https://ngl.link/jibrinx">here</a> before you leave.
 
                   
 ## Research Interests
@@ -33,5 +33,23 @@ I am a budding researcher and an effective altruist who is passionate about deve
 - **[Nov. 2018]** I led the Golden Halo team to 2018 NASA space apps challenge (Nigeria online qualification round) to 1st runners up victory <a href="https://2018.spaceappschallenge.org/challenges/what-world-needs-now/health-makes-wealth/teams/golden-halo-1/project/">See challenge.</a>
 
 {% include_relative _includes/publications.md %}
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0JuuKY8qGauMozv0GI-K7NeqjwR_As41-mbQ-dbn8b7jh8PWV0oOnWA-P8AYwJHMR563bOELB4?gv=true',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+
 <!--{% include_relative _includes/services.md %} -->
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5bpywpk7cuj&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
