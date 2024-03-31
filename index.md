@@ -33,7 +33,7 @@ I appreciate your interest in reading this snippet. Feel free to say hello or as
 })();
 </script>
 <!-- end Google Calendar Appointment Scheduling -->
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   
 ## Research Interests
 I am a budding researcher and an effective altruist who is passionate about developing sustainable solutions to social issues in Africa and has a polymath of interests revolving around:
