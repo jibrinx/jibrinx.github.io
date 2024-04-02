@@ -41,7 +41,7 @@ I am a budding researcher and an effective altruist who is passionate about deve
 
 ## Recent News
 
-
+Find out what I have been up to recently on  <a rel="me" href="https://mastodon.social/@jbrnjfr">Mastodon</a>
 - **[Aug. 2023]** I delivered a keynote speech at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies.</a>
 - **[Jul. 2023]** I started a new position of CEO and Co-Founder of 5Minutes!
 - **[Feb. 2023]** I started a new position as ML Engineer at <a href="https://greysoft.ng">Greysoft Technologies.</a>
