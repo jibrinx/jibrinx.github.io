@@ -15,7 +15,7 @@ In my free time I take pleasure in both watching and playing football. My unwave
 
 Two quotes that resonate with me are, <strong><i> "If you do not strive for excellence in your endeavours, you have lost your purpose."</i> </strong> by <a href="https://manzomaigari.com/#/">Dr. Manzo Maigari</a>, and <strong> <i>"Sincerity is a better 'persuasion tactic' than any trick you can learn,"</i> </strong> by <a href="https://twitter.com/mmay3r/status/1336432412285231104">Michael.</a>
 
-I appreciate your interest in reading this snippet. Feel free to say hello or ask me anything <a href="https://ngl.link/jibrinx">here</a> before you leave. or book an appointment for futher dicussion.
+I appreciate your interest in reading this snippet. Feel free to say hello or ask me anything <a href="https://ngl.link/jibrinx">here</a> before you leave. or book an appointment for futher discussion.
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
