@@ -11,7 +11,7 @@ My educational background includes an MSc. degree in Artificial Intelligence and
 
 I am an active member of <a href="http://www.sigecom.org">ACM Special Interest Group (SIGecom) </a> since 2020, as well as being affiliated with <a href="https://blackinai.github.io/#/">Black in AI</a> and <a href="https://www.datasciencenigeria.org">Data Scientists Network</a> formerly known as Data Science Nigeria.
 
-In my free time I take pleasure in both watching and playing football. My unwavering allegiance to <a href="https://www.arsenal.com">Arsenal FC</a> is rooted in my childhood admiration for <a href="https://www.footballhistory.org/player/thierry-henry.html">Thierry Henry,</a> (My boyhood idol) whom I consider Gunner's Greatest of all Times.
+In my free time I take pleasure in both watching and playing football. My unwavering allegiance to <a href="https://www.arsenal.com">Arsenal FC</a> is rooted in my childhood admiration for <a href="https://www.footballhistory.org/player/thierry-henry.html">Thierry Henry,</a> (My boyhood idol!) whom I consider Gunner's Greatest of all Times.
 
 Two quotes that resonate with me are, <strong><i> "If you do not strive for excellence in your endeavours, you have lost your purpose."</i> </strong> by <a href="https://manzomaigari.com/#/">Dr. Manzo Maigari</a>, and <strong> <i>"Sincerity is a better 'persuasion tactic' than any trick you can learn,"</i> </strong> by <a href="https://twitter.com/mmay3r/status/1336432412285231104">Michael.</a>
 
@@ -37,13 +37,16 @@ I appreciate your interest in reading this snippet. Feel free to say hello or as
                   
 ## Research Interests
 I am a budding researcher and an effective altruist who is passionate about developing sustainable solutions to social issues in Africa and has a polymath of interests revolving around:
-- AI for social good, ML for Health especially in low-resource contexts, Medical device design, Digital oncology, Startups and Innovation, Responsible AI and ethics, Multi-agent RL, Geometric Deep learning, and Representational learning.
+- AI for social good, ML for Health especially in low-resource contexts, Medical devices design, Digital oncology, Startups and Innovation, Responsible AI and ethics, Multi-agent RL, Geometric Deep learning, and Representational learning.
 
 ## Recent News
 
 Find out what I have been up to recently on  <a rel="me" href="https://mastodon.social/@jbrnjfr">Mastodon</a>
 - **[April. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the #Microsoft #Gieva #datadotorg AI grant aimed at bringing women entrepreneurs in northern #Nigeria into the digital economy!<a href='https://x.com/jbrnjfr/status/1782014757182066887' target='-blank'>see pictures</a>
+- **[Jan. 2024]** Started collaborating with Neureka Technologies on research on Lassa fever and pandemic preparedness in Nigeria. <a href ='https://www.linkedin.com/posts/activity-7150626337832046592-xdIN?utm_source=share&utm_medium=member_desktop'>See certificate</a>
+- **[Dec. 2023]** Participatedat the 3rd annual ML4H Symposium. <a href ='https://www.linkedin.com/posts/activity-7150626337832046592-xdIN?utm_source=share&utm_medium=member_desktop'>See certificate</a>
 - **[Aug. 2023]** I delivered a keynote speech at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies.</a>
+- **[Aug. 2023]** The AgroBays Agrofoods app is launched!
 - **[Jul. 2023]** I started a new position of CEO and Co-Founder of 5Minutes!
 - **[Feb. 2023]** I started a new position as ML Engineer at <a href="https://greysoft.ng">Greysoft Technologies.</a>
 - **[Dec. 2022]** I bagged an MSc degree in AI and Data Analytics from <a href="https://www.lborolondon.ac.uk/study/masters-degrees/artificial-intelligence-data-analytics/"> Loughborough University London. </a>
