@@ -37,11 +37,12 @@ I appreciate your interest in reading this snippet. Feel free to say hello or as
                   
 ## Research Interests
 I am a budding researcher and an effective altruist who is passionate about developing sustainable solutions to social issues in Africa and has a polymath of interests revolving around:
-- AI for social good, ML for Health especially in low-resource contexts, Computational Epidemiology and Forecasting, Digital oncology, Startups and Innovation, Responsible AI and ethics, Multi-agent RL, Geometric Deep learning, and Representational learning.
+- AI for social good, ML for Health especially in low-resource contexts, Medical device design, Digital oncology, Startups and Innovation, Responsible AI and ethics, Multi-agent RL, Geometric Deep learning, and Representational learning.
 
 ## Recent News
 
 Find out what I have been up to recently on  <a rel="me" href="https://mastodon.social/@jbrnjfr">Mastodon</a>
+- **[April. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the #Microsoft #Gieva #datadotorg AI grant aimed at bringing women entrepreneurs in northern #Nigeria into the digital economy!<a href='https://x.com/jbrnjfr/status/1782014757182066887' target='-blank'>see pictures</a>
 - **[Aug. 2023]** I delivered a keynote speech at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies.</a>
 - **[Jul. 2023]** I started a new position of CEO and Co-Founder of 5Minutes!
 - **[Feb. 2023]** I started a new position as ML Engineer at <a href="https://greysoft.ng">Greysoft Technologies.</a>
