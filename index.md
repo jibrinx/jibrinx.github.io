@@ -36,10 +36,9 @@ I appreciate your interest in reading this snippet. Feel free to say hello or as
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   
 ## Research Interests
-I am a budding researcher and an effective altruist who is passionate about developing sustainable solutions to social issues in Africa and has a polymath of interests revolving around:
-- AI for social good, ML for Health especially in low-resource contexts, Medical devices design, Digital oncology, Startups and Innovation, Responsible AI and ethics, Multi-agent RL, Geometric Deep learning, and Representational learning.
-
-## Recent News
+I am a budding researcher and an effective altruist with interests revolving around:
+AI for social good, Self-supervised learning, Geometric Deep learning and Image/signal analysis, Uncertainty Quantification in Vision-Language Models, Multi-agent Reinforcement Learning,  Tech Startups and Innovation.
+## Recent News 
 
 Find out what I have been up to recently on  <a rel="me" href="https://mastodon.social/@jbrnjfr">Mastodon</a>
 - **[April. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the #Microsoft #Gieva #datadotorg AI grant aimed at bringing women entrepreneurs in northern #Nigeria into the digital economy!<a href='https://x.com/jbrnjfr/status/1782014757182066887' target='-blank'>see pictures</a>
