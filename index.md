@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-<p align="right">[Last updated: 16-04-2024]</p>
+<p color="red" align="right">[Last updated: 16-04-2024]</p>
 ## About Me
 
 I am a research fellow working at the intersection of public & environmental health and community resilience at Neureka Technologies inc. we are working together with Dr. Nentawe Gurumdimma on modelling spatiotemporal dynamics and forecasting of Lassa fever and other epidemics in Nigeria. In the past year, I worked as a senior Machine Learning Engineering at <a href="https://greysoft.ng">Greysoft Technologies</a> in Nigeria, where I lead a small (~3) team of ML Engineers at the GreyAI Lab. We worked in the digital innovation domain providing solutions to local challenges to problems in education and agricultural logistics and supply chain. Our focus primarily was on cross-lingual translation, particularly for low-resource languages like the Hausa language which is popularly spoken in Nigeria. Additionally, I hold the position of CEO and Co-founder of <a href="https://app.5minutes.ng">5Minutes </a>(Beta version available on Google Play Store) at <a href="https://greysoft.ng">Greysoft Technologies</a>. <a href="https://app.5minutes.ng">5Minutes </a> is a mentor-mentee platform emphasizing brevity(<5mins) in content (videos, texts) without compromising depth.
