@@ -45,7 +45,7 @@ I am still traversing and my interests are nascent. In principle, I tend to enjo
 - Computational Epidemiology 
 - Medical Image/signal analysis
 - Multi-agent Systems
-- Physics-informed and Graph neural networks
+- Epidemiological-informed neural networks and Graph neural networks
   
 ## Recent News 
 
