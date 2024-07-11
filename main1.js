@@ -262,7 +262,7 @@ canvas.addEventListener('click', function (event) {
             } else if (mousePosition.y < menuButtons.y3 + menuButtons.buttonHeight && mousePosition.y > menuButtons.y3) {
                 window.open('https://jbrnjfr.github.io')
             } else if (mousePosition.y < menuButtons.y4 + menuButtons.buttonHeight && mousePosition.y > menuButtons.y4) {
-                window.open('https://jbrnjfr.github.io/')
+                window.open('https://github.com/jbrnjfr/jbrnjfr.github.io')
             }
         }
     }
