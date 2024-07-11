@@ -32,9 +32,9 @@ var menuButtons
 
 // tfw when you realize js doesn't support modules yet
 // [text, max_lines, max_time]
-var l0 = ['RAPIDLY'.split(' '), 1]
-var l1 = ['PRESS'.split(' '), 1]
-var l2 = ['X'.split(' '), 1]
+var l0 = ['RAPIDLY PRESS X TO FEEL GOOD'.split(' '), 1]
+var l1 = ['I WANT'.split(' '), 1]
+var l2 = ['YOU'.split(' '), 1]
 var l3 = ['TO'.split(' '), 1]
 var l4 = ['REFUSE'.split(' '), 1]
 var l5 = ['TO'.split(' '), 1]
