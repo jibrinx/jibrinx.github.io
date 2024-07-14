@@ -41,11 +41,11 @@ I appreciate your interest in reading this snippet. Feel free to say hello or as
 ## Research Interests
 I am still traversing and my interests are nascent. In principle, I tend to enjoy working on:
 
--Modeling Complex Systems dynamics
--Machine Vision
--Deep Generative Modelling
--Foundations of AI & Machine learning Theory
--Medical Image/signal analysis
+- Modeling Complex Systems dynamics
+- Machine Vision
+- Deep Generative Modelling
+- Foundations of AI & Machine learning Theory
+- Medical Image/signal analysis
   
 ## Recent News 
 
