@@ -64,7 +64,7 @@ main:
     authors: I focused on developing a comprehensive model for anti-malaria drug resistance. This involved a thorough examination of parasite population dynamics, drug treatment impacts, host immune responses, and various epidemiological factors. My findings contributed to the formulation of effective strategies for combating drug-resistant malaria.
     conference_short: MTH308
     #conference: <strong>Mathematical Modelling</strong>
-    # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
+    pdf: https://www.researchgate.net/publication/382439478_A_Mathematical_Model_for_Anti-Malarial_Resistance
     # code: https://github.com/jibrinx/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/malaria.jpg
