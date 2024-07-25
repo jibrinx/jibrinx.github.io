@@ -1,7 +1,7 @@
 # Basic Information 
 title: Jibrin Jaafaru
 position: AI and Data Analytics
-affiliation: Loughborough University
+affiliation: Loughborough University London
 email: j.jibrin(at)greysoft(dot)ng
 
 # Search Engine Optimization (SEO)
@@ -12,7 +12,8 @@ canonical: https://jbrnjfr.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/citations?user=lzcaIqoAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=lzcaIqoAAAAJ&hl=en&authuser=2
+researchgate: https://www.researchgate.net/profile/Jaafaru-Jibrin-2/research
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/jbrnjfr
 linkedin: https://www.linkedin.com/in/jbrnjfr
