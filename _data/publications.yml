@@ -12,13 +12,13 @@ main:
     notes: Conference Poster [Accepted]
 
   - title: "Collaborative project with WeAreTheNews startup"
-    authors: As the unit team lead for the collaborative project between Loughborough university London and <a href="https://www.wearethenews.com"> WeAreTheNews startup</a>, I championed ideas on 1. The integration of blockchain in news to revolutionise transparency, ownership, and monetization. 2. Enhancing news article credibility by ensuring the immutability of news articles. 3. Smart contracts to automate fair revenue distribution 4. Proposed the WATN coin to enable micropayments for precise content consumption. 5. Developed measures to ensure GDPR compliance.
+    authors: As the unit team lead for the collaborative project between Loughborough university London and <a href="https://www.wearethenews.com"> WeAreTheNews startup</a>, I worked on 1. The integration of blockchain in news to revolutionise transparency, ownership, and monetization. 2. Enhancing news article credibility by ensuring the immutability of news articles. 3. Smart contracts to automate fair revenue distribution 4. Proposed the WATN coin to enable micropayments for precise content consumption. 5. Developed measures to ensure GDPR compliance.
     conference_short: 21LLP008
     #conference: Collaborative Project
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: https://wearethenews.com/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Collaborative Project
     image: ./assets/img/watn.png
