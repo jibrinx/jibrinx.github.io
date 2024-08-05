@@ -42,7 +42,7 @@ I appreciate your interest in reading this snippet. Feel free to say hello or as
 I am still traversing and my interests are nascent. In principle, I tend to enjoy working on:
 
 - Modeling Complex Systems dynamics
-- Machine Vision in crops health monitoring
+- Novel Deep Learning and Computer Vision algorithms in crops health monitoring
 - Vision-Language Models
   
 ## Recent News 
