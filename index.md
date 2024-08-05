@@ -42,10 +42,8 @@ I appreciate your interest in reading this snippet. Feel free to say hello or as
 I am still traversing and my interests are nascent. In principle, I tend to enjoy working on:
 
 - Modeling Complex Systems dynamics
-- Machine Vision
-- Deep Generative Modelling
-- Foundations of AI & Machine learning Theory
-- Medical Image/signal analysis
+- Machine Vision in crops health monitoring
+- Vision-Language Models
   
 ## Recent News 
 
@@ -55,8 +53,6 @@ Find out what I have been up to recently on  <a rel="me" href="https://mastodon.
 - **[Dec. 2023]** Participatedat the 3rd annual ML4H Symposium. <a href ='https://www.linkedin.com/posts/activity-7150626337832046592-xdIN?utm_source=share&utm_medium=member_desktop'>See certificate</a>
 - **[Aug. 2023]** I delivered a keynote speech at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies.</a>
 - **[Aug. 2023]** The AgroBays Agrofoods app is launched!
-- **[Jul. 2023]** I started a new position of CEO and Co-Founder of 5Minutes!
-- **[Feb. 2023]** I started a new position as ML Engineer at <a href="https://greysoft.ng">Greysoft Technologies.</a>
 - **[Dec. 2022]** I bagged an MSc degree in AI and Data Analytics from <a href="https://www.lborolondon.ac.uk/study/masters-degrees/artificial-intelligence-data-analytics/"> Loughborough University London. </a>
 - **[Jul. 2020]** I presented a virtual poster of my undergraduate work on cervical cancer at the 21st ACM conference on economics and computation, EC 2020 in Budapest. <a href="https://ec20.sigecom.org/program/posters/"> link to poster</a>
 - **[Jun. 2020]** I presented my undergraduate project on cervical cancer at the Data Science Africa workshop, Kampala 2020 <a href="https://www.datascienceafrica.org/dsa2020kampala/schedule/#session-paper1">Link to event</a>
