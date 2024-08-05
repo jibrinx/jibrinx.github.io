@@ -41,8 +41,8 @@ I appreciate your interest in reading this snippet. Feel free to say hello or as
 ## Research Interests
 I am still traversing and my interests are nascent. In principle, I tend to enjoy working on:
 
-- Modeling Complex Epidemiological System dynamics
-- Scalling Novel Deep Learning and Computer Vision algorithms to crop health monitoring
+- Modeling Complex System dynamics
+- Machine Vision
 - Vision-Language Models
   
 ## Recent News 
