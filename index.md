@@ -43,7 +43,7 @@ I am still traversing and my interests are nascent. In principle, I tend to enjo
 
 - Modeling Complex System dynamics
 - Machine Vision
-- Vision-Language Models
+- Uncertainty Quantification in Vision-Language Models
   
 ## Recent News 
 
