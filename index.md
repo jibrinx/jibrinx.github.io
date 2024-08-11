@@ -15,7 +15,7 @@ To this end, My career goal is to solidify existing collaboration between the Af
 
 I have been an active member of <a href="http://www.sigecom.org">ACM Special Interest Group (SIGecom) on Economics and Computation </a> since 2020, Effective Altruism Network (EA Nigeria & EA Global) as well as being affiliated with <a href="https://blackinai.github.io/#/">Black in AI</a> and <a href="https://www.datasciencenigeria.org">Data Scientists Network</a> formerly known as Data Science Nigeria.
 
-In my free time I take pleasure in both watching and playing football. I have recently launched a digital technology mentorship program to provide guidance and opportunities for youths in my community to engage in positive, productive activities in the tech industry. For emphasis, Let me this to highlight the severity of the situation. If you randomly sampled 100 youths in my community, 65 are involved in internet scams, and the remaining 35 are at risk of eventually getting into it. It was Trevor Noah affirmed that 'Crime succeed because of one thing the government doesn't do: it cares' but will blame games help?  this is our collective failure as a society. I have decided to be the humming bird and I am doing the best I can.
+In my free time I take pleasure in both watching and playing football. I have recently launched a digital technology mentorship program to provide guidance and opportunities for youths in my community to engage in positive, productive activities in the tech industry. For emphasis, Let me this to highlight the severity of the situation. If you randomly sampled 100 youths in my community, 65 are involved in internet scams, and the remaining 35 are at risk of eventually getting into it. It was Trevor Noah affirmed that said <i> "Crime succeed because of one thing the government doesn't do: it cares"</i>  but will blame games ever help?  this is our collective failure as a society. I have decided to be the humming bird and I am doing the best I can.
 <br>
 
 A quote that has stayed with me all through life and work is <strong><i> "A diamond is just a rock that refused to break under heat and pressure.”</i> by Matshona Dhliwayo.</strong>  I am still a 'diamond in the rough' and I owe my existence and progress to the grit and pressure that has formed me and is polishing me into who I am becoming... <br> <br>
@@ -48,9 +48,8 @@ I am still traversing and my interests are nascent. I tend to enjoy working on:
   
 ## Recent News 
 
-Find out what I have been up to recently on  <a rel="me" href="https://mastodon.social/@jbrnjfr">Mastodon</a>
+Find out what I have been up to recently on  <a rel="me" href="https://linkedin.com/in/jbrnjfr">LinkedIn</a>
 - **[April. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the #Microsoft #Gieva #datadotorg AI grant aimed at bringing women entrepreneurs in northern #Nigeria into the digital economy!<a href='https://x.com/jbrnjfr/status/1782014757182066887' target='-blank'>see pictures</a>
-- **[Jan. 2024]** Started collaborating with Neureka Technologies on research on Lassa fever and pandemic preparedness in Nigeria. 
 - **[Dec. 2023]** Participatedat the 3rd annual ML4H Symposium. <a href ='https://www.linkedin.com/posts/activity-7150626337832046592-xdIN?utm_source=share&utm_medium=member_desktop'>See certificate</a>
 - **[Aug. 2023]** I delivered a keynote speech at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies.</a>
 - **[Aug. 2023]** The AgroBays Agrofoods app is launched!
