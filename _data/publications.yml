@@ -29,7 +29,7 @@ main:
     conference_short: 21LLP131
     #conference: Reinforcement Learning
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # code: https://colab.research.google.com/drive/1Uh1S2HE5zmDAtUwzdZ5GS-5F3tDP54Kc?usp=sharing
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Reinforcement Learning coursework on Precision Irrigation
