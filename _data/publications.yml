@@ -64,7 +64,7 @@ main:
     conference_short: 21LLP133
     #conference:  <strong>Advance Big Data Analytics</strong>
     # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
-    # code: https://github.com/jibrinx/ContinualLearning
+    code: https://github.com/jbrnjfr/FabricsDefects
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/text.png
     notes: Advance Big Data Analytics coursework
