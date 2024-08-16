@@ -60,7 +60,8 @@ main:
 
 
   - title: Semi-supervised fabric defect detection based on image reconstruction and density estimation.
-    authors: Textile industries suffer profit declines due to defective products, emphasizing the need for automated inspection systems. This paper introduces a hybrid semi-supervised method for fabric defect detection using variational autoencoder and Gaussian mixture model. Validated on AITEX and DAGM 2007 databases, the method excels in automated detection, outperforming selected alternatives in overall performance.    
+    authors: In this project I present a semi-supervised approach to fabric defect detection utilising image reconstruction and density estimation techniques. I used the existing AITEX and DAGM 2007 datasets and a convolutional autoencoder was trained to learn the normal patterns of non-defective fabrics. The autoencoder is then used to reconstruct fabric images, with reconstruction errors serving as indicators of potential defects. To enhance defect detection, Kernel Density Estimation (KDE) we applied to model the distribution of reconstruction errors, enabling the identification of anomalies based on density scores. In this way I was able to effectively detect fabric defects with limited labelled data. I evaluated the model using accuracy, precision, and recall metrics, yield 87.5, 80.2, 78.7 respectively showing promising results in identifying defective fabrics.
+    
     conference_short: 21LLP133
     #conference:  <strong>Advance Big Data Analytics</strong>
     # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
