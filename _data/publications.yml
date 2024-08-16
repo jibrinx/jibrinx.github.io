@@ -23,7 +23,7 @@ main:
     notes: Collaborative Project
     image: ./assets/img/watn.png
     
-  - title: "Deep Q network for optimal irrigation scheduling in Northern Nigeria"
+  - title: "Advanced Deep Q-Network for Precision Irrigation Scheduling in Northern Nigeria"
     authors: "I developed an advanced Deep Q-Network (DQN) model for optimal irrigation scheduling in Northern Nigeria with more complex environmental variables. The environment simulates factors such as soil type, crop type, historical weather data, and the growth stage of crops using advanced techniques like Double DQN, Dueling DQN, and Prioritized Experience Replay to improve learning stability, reduce overestimation bias, and prioritize important learning experiences.These enhancements allow the agent to more accurately predict the optimal irrigation levels needed for various crop and soil conditions, ultimately leading to more efficient water use and improved crop yields."    
     # conference_short: CVPR
     conference_short: 21LLP131
