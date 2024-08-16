@@ -35,7 +35,17 @@ main:
     notes: Reinforcement Learning coursework
     image: ./assets/img/deepq.jpg
 
-
+  - title: "Gibbs sampling with a 2D Gaussian distribution: Optimizing Crop Growth with Soil Moisture and Fertilizer Levels"
+    authors: "This article explores the use of Gibbs sampling, a Markov Chain Monte Carlo (MCMC) method, to optimize crop growth by refining estimates of soil moisture and fertilizer levels, which are crucial interrelated variables in agriculture. Gibbs sampling is introduced as a solution for dealing with complex joint probability distributions that are difficult to sample from directly, especially when variables are highly dependent"    
+    # conference_short: CVPR
+   # conference_short: 21LLP131
+    #conference: Reinforcement Learning
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://medium.com/@jbrnjfr/gibbs-sampling-with-a-2d-gaussian-distribution-3bd073a78979
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Crop Monitoring
+    image: ./assets/img/agrobays.webp
 
   - title: Robust identification of fall army worm infestation on maize fields of small African farmholders. 
     authors: This study focuses on the robust identification of fall army worm infestation in maize fields owned by small African farmholders. The research aims to develop effective methods for accurately and reliably detecting the presence of fall army worm infestations, addressing a significant threat to the agricultural productivity of small-scale farmers in Africa. The findings of this study are crucial for implementing timely and targeted interventions to mitigate the impact of fall army worm infestations on maize crops, thereby contributing to the resilience and sustainability of smallholder farming in the region.
