@@ -24,7 +24,7 @@ main:
     image: ./assets/img/watn.png
     
   - title: "Deep Q network for optimal irrigation scheduling in Northern Nigeria"
-    authors: "Deep reinforcement learning holds significant promise for optimizing irrigation scheduling in diverse cropping systems. By adapting water amounts based on multiple measurements, the framework aims to uncover an intelligent decision rule, demonstrated effectively through a case study in Nigeria wheat farming, maximizing profits. The versatile model, tested in Kaduna, applies to various cropping systems, addressing realistic optimization challenges."    
+    authors: "I developed an advanced Deep Q-Network (DQN) model for optimal irrigation scheduling in Northern Nigeria with more complex environmental variables. The environment simulates factors such as soil type, crop type, historical weather data, and the growth stage of crops using advanced techniques like Double DQN, Dueling DQN, and Prioritized Experience Replay to improve learning stability, reduce overestimation bias, and prioritize important learning experiences.These enhancements allow the agent to more accurately predict the optimal irrigation levels needed for various crop and soil conditions, ultimately leading to more efficient water use and improved crop yields."    
     # conference_short: CVPR
     conference_short: 21LLP131
     #conference: Reinforcement Learning
@@ -32,7 +32,7 @@ main:
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Reinforcement Learning coursework
+    notes: Reinforcement Learning coursework on Precision Irrigation
     image: ./assets/img/deepq.jpg
 
   - title: "Gibbs sampling with a 2D Gaussian distribution: Optimizing Crop Growth with Soil Moisture and Fertilizer Levels"
