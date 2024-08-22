@@ -41,7 +41,7 @@ I appreciate your interest in reading this snippet. Feel free to say hello or as
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   
 ## Research Interests
-I am particularly fascinated by the intricacies of complex dynamical systems, uncertainty Quantification, and Non-linearities. I enjoy working on problems in this domain: Computer Vision, Deep Learning and Mathematical Modelling.
+I am particularly fascinated by the intricacies of complex dynamical systems, uncertainty Quantification, and Non-linearities. I enjoy working on problems in this domain: Computer Vision, Deep Learning, Mathematical Modeling, and Deep Generative Modeling.
   
 ## Recent News 
 
