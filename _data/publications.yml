@@ -51,7 +51,7 @@ main:
     authors: This study focuses on the robust identification of fall army worm infestation in maize fields owned by small African farmholders. The research aims to develop effective methods for accurately and reliably detecting the presence of fall army worm infestations, addressing a significant threat to the agricultural productivity of small-scale farmers in Africa. The findings of this study are crucial for implementing timely and targeted interventions to mitigate the impact of fall army worm infestations on maize crops, thereby contributing to the resilience and sustainability of smallholder farming in the region.
     conference_short: 21LLP501
     #conference: <strong>MSc Dissertation</strong>
-    # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
+    pdf: https://www.researchgate.net/publication/383749736_Towards_Efficient_Maize_Crop_Health_Monitoring_From_Fusion_of_Vegetation_and_Fall_armyworm_Images_Using_Multi-task_Learning
     # code: https://github.com/jibrinx/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/fallarmy.jpg
