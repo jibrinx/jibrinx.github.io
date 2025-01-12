@@ -28,7 +28,7 @@ Generally, I am always curious about how our world operates, and whether we can 
 
 Find out what I have been up to recently on  <a rel="me" href="https://linkedin.com/in/jbrnjfr">LinkedIn</a>
 - **[April. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the #Microsoft #Gieva #datadotorg AI grant aimed at bringing women entrepreneurs in northern #Nigeria into the digital economy!<a href='https://x.com/jbrnjfr/status/1782014757182066887' target='-blank'>see pictures</a>
-- **[Dec. 2023]** Participated at the 3rd annual ML4H Symposium. <a href ='https://www.linkedin.com/posts/activity-7150626337832046592-xdIN?utm_source=share&utm_medium=member_desktop'>See certificate</a>
+- **[Dec. 2023]** Participated at the 3rd annual ML4H Symposium. <a href ='https://www.linkedin.com/posts/activity-7150626337832046592-xdIN?utm_source=share&utm_medium=member_desktop'>See attendance certificate</a>
 - **[Aug. 2023]** I delivered a keynote speech at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies.</a>
 - **[Aug. 2023]** The AgroBays Agrofoods app is launched!
 - **[Dec. 2022]** I bagged an MSc degree in AI and Data Analytics from <a href="https://www.lborolondon.ac.uk/study/masters-degrees/artificial-intelligence-data-analytics/"> Loughborough University London. </a>
