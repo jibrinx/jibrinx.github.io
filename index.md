@@ -4,8 +4,12 @@ layout: homepage
 
 <p  align="right">[Last updated: 16-04-2024 at 15:02 pm]</p>
 ## About Me
+Hi! I’m Jibrin. I currently work as a research assistant at the Department of Computer Science, University of Jos, where I focus on modeling spatiotemporal dynamics and forecasting outbreaks of Lassa fever and other infectious diseases in Nigeria.
 
-Hi! I am Jibrin. I currently work as a research assistant at the Department of Computer Science, University of Jos, focusing on modeling spatiotemporal dynamics and forecasting outbreaks of Lassa fever and other infectious diseases in Nigeria.. In the past, I have worked as a senior Machine Learning Engineer at <a href="https://greysoft.ng">Greysoft Technologies</a> in Nigeria, where I led a small (~3) team of ML Engineers. We worked across scale of local problems in the digital innovation domain by providing solutions to challenges in education, agriculture and food supply chain which birth the following startups <a href="https://agrobays.com">AgroBays Agrofoods </a>, <a href="https://app.5minutes.ng">5Minutes </a>, and the BRIT App (Book keeping, Receipting, Invoice, and Tax).  I have also work as research assistant in multiple research projects including New Venture Fund With Data.org and Microsoft, Embassy of France in Nigeria Solidarity Fund for Innovative Projects,and the NIH grant, K43 project at JUTH: K43TW011416)
+Previously, I served as a senior Machine Learning Engineer at <a href="https://greysoft.ng">Greysoft Technologies</a>, Nigeria, leading a team of three ML engineers. Together, we tackled local challenges in education, agriculture, and the food supply chain, which led to the creation of impactful startups like  <a href="https://agrobays.com">AgroBays Agrofoods </a>,  <a href="https://app.5minutes.ng">5Minutes </a>, and the BRIT App (Bookkeeping, Receipting, Invoice, and Tax).
+
+I have also contributed to several research initiatives, including projects funded by New Venture Fund through Data.org and Microsoft, the Embassy of France in Nigeria's Solidarity Fund for Innovative Projects, and the NIH-supported K43 project (K43TW011416) at JUTH.
+
 <br>
 ## Education
 - **2022** - Master degree in Artificial Intelligence and Data Analytics from the Institute for Digital Technologies at Loughborough University London 
@@ -21,7 +25,7 @@ A quote that has stayed with me all through life and work is <strong><i> "A diam
 I appreciate your interest in reading this snippet. Feel free to say hello or ask me anything using my email before you leave.
 
 ## Research Interests
-I enjoy working at the intersection of Artificial Intelligence, public and environmental health and community resilience. I am interested in Graph and Physics-informed Neural Network Models, Uncertainty Quantification and Explainable Forecasting, Spatio-temporal modeling of infectious diseases and Data-driven / Scenario-based modelling of policy interventions.
+I enjoy working at the intersection of Artificial Intelligence, public and environmental health and community resilience. I am interested in Graph and Physics-informed Neural Network Models, Mathematical modelling, Uncertainty Quantification and Explainable Forecasting, Spatio-temporal modeling of infectious diseases and Data-driven / Scenario-based modelling of policy interventions.
 <br>
 Generally, I am always curious about how our world operates, and whether we can find a theory that will explain it all..
   
