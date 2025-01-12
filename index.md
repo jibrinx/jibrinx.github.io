@@ -16,7 +16,7 @@ Previously, I served as a senior Machine Learning Engineer at <a href="https://g
 I have also contributed to several research initiatives, including projects funded by New Venture Fund through Data.org and Microsoft, the Embassy of France in Nigeria's Solidarity Fund for Innovative Projects, and the NIH-supported K43 project (K43TW011416) at JUTH.
 <br>  
 Thanks a lot to the support of my advisors and my sponsors, I am able to conduct research and continue learning/building things that interest me.
-<br>---
+---<br>
 A quote that has stayed with me all through life and work is <strong><i> "A diamond is just a rock that refused to break under heat and pressure.”</i> by Matshona Dhliwayo.</strong>  While I believe that I am still a 'diamond in the rough' and I owe my existence and progress to the grit and pressure that has formed me and is polishing me into who I am becoming... <br> <br>
 I appreciate your interest in reading this snippet. Feel free to say hello or ask me anything using my email before you leave.
 
