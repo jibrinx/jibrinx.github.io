@@ -4,7 +4,7 @@ layout: homepage
 <p  align="right">[Last updated: 16-04-2024 at 15:02 pm]</p>
 
 ## About Me
-Hi! I’m Jibrin. I love to create projects and follow my curiosity. Currently, I am building <a href="http://adhere360.github.io">Adhere360 </a> to tackling Nigeria's pressing healthcare challenges by improving medication adherence and reduce non-adherence rates which are estimated to exceed 50% across chronic conditions like diabetes and hypertension in Nigeria.I am passionate about pushing the boundaries in the tools and methods in the management of infectious diseases and contributing to better and prepared response in terms of policies, resources and management of novel future pandemics. I am actively looking for further opportunities to deepen my expertise and understanding of infectious diseases modelling...
+Hi! I’m Jibrin. I love to create projects and follow my curiosity. I am currently building <a href="http://adhere360.github.io">Adhere360 </a> to tackle Nigeria's pressing healthcare challenges by improving medication adherence and reduce non-adherence rates which are estimated to exceed 50% across chronic conditions like diabetes and hypertension in Nigeria. I am passionate about pushing the boundaries in the tools and methods in the management of infectious diseases and contributing to better and prepared response in terms of policies, resources and management of novel future pandemics. I am actively looking for further opportunities to deepen my expertise and understanding of infectious diseases modelling...
 
 ## Education
 - **2022** - Master degree in Artificial Intelligence and Data Analytics from the Institute for Digital Technologies at Loughborough University London 
@@ -16,7 +16,6 @@ Previously, I served as a senior Machine Learning Engineer at <a href="https://g
 I have also contributed to several research initiatives, including projects funded by New Venture Fund through Data.org and Microsoft, the Embassy of France in Nigeria's Solidarity Fund for Innovative Projects, and the NIH-supported K43 project (K43TW011416) at JUTH.
 <br>  
 Thanks a lot to the support of my advisors and my sponsors, I am able to conduct research and continue learning/building things that interest me.
-
 <br>---
 A quote that has stayed with me all through life and work is <strong><i> "A diamond is just a rock that refused to break under heat and pressure.”</i> by Matshona Dhliwayo.</strong>  While I believe that I am still a 'diamond in the rough' and I owe my existence and progress to the grit and pressure that has formed me and is polishing me into who I am becoming... <br> <br>
 I appreciate your interest in reading this snippet. Feel free to say hello or ask me anything using my email before you leave.
@@ -44,4 +43,5 @@ Find out what I have been up to recently on  <a rel="me" href="https://linkedin.
 ## Membership
 I am a member of <a href="http://www.sigecom.org">ACM Special Interest Group (SIGecom) on Economics and Computation </a>, Effective Altruism Network (EA Nigeria & EA Global). I am also affiliated with <a href="https://blackinai.github.io/#/">Black in AI</a> and <a href="https://www.datasciencenigeria.org">Data Scientists Network</a> formerly, Data Science Nigeria.
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5bpywpk7cuj&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
+ <a href='http://www.freevisitorcounters.com'>Free Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=e2851f6f60d71cbaa285642eb1ba5e154a03c745'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1286736/t/0"></script>
