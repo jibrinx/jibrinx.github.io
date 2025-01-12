@@ -18,17 +18,17 @@ I have also contributed to several research initiatives, including projects fund
 - **2022** - Master degree in Artificial Intelligence and Data Analytics from the Institute for Digital Technologies at Loughborough University London 
 - **2019** - Bachelor degree in Computer Science from University of Jos, Nigeria.
 
-I love to create projects and follow my curiosity. I am currently building <a href="http://adhere360.github.io">Adhere360 </a> to tackling Nigeria's pressing healthcare challenges by improving medication adherence and reduce non-adherence rates which are estimated to exceed 50% across chronic conditions like diabetes and hypertension in Nigeria. <br>  Thanks a lot to the support of my advisors and my sponsors, I am able to conduct research and continue learning/building things that interest me.
+I love to create projects and follow my curiosity. Currently, I am building <a href="http://adhere360.github.io">Adhere360 </a> to tackling Nigeria's pressing healthcare challenges by improving medication adherence and reduce non-adherence rates which are estimated to exceed 50% across chronic conditions like diabetes and hypertension in Nigeria. <br>  Thanks a lot to the support of my advisors and my sponsors, I am able to conduct research and continue learning/building things that interest me.
 
-I am passionate about pushing the boundaries in the tools and methods in the management of infectious diseases and contributing to better and prepared response in terms of policies, resources and management of novel future pandemics. I am currently looking for further opportunities to deepen my expertise and understanding of infectious diseases modelling..
+I am passionate about pushing the boundaries in the tools and methods in the management of infectious diseases and contributing to better and prepared response in terms of policies, resources and management of novel future pandemics. I am actively looking for further opportunities to deepen my expertise and understanding of infectious diseases modelling..
 
-I am an active member of <a href="http://www.sigecom.org">ACM Special Interest Group (SIGecom) on Economics and Computation </a>, Effective Altruism Network (EA Nigeria & EA Global). I am also affiliated with <a href="https://blackinai.github.io/#/">Black in AI</a> and <a href="https://www.datasciencenigeria.org">Data Scientists Network</a> formerly, Data Science Nigeria.
+I am a member of <a href="http://www.sigecom.org">ACM Special Interest Group (SIGecom) on Economics and Computation </a>, Effective Altruism Network (EA Nigeria & EA Global). I am also affiliated with <a href="https://blackinai.github.io/#/">Black in AI</a> and <a href="https://www.datasciencenigeria.org">Data Scientists Network</a> formerly, Data Science Nigeria.
 
 A quote that has stayed with me all through life and work is <strong><i> "A diamond is just a rock that refused to break under heat and pressure.”</i> by Matshona Dhliwayo.</strong>  I am still a 'diamond in the rough' and I owe my existence and progress to the grit and pressure that has formed me and is polishing me into who I am becoming... <br> <br>
 I appreciate your interest in reading this snippet. Feel free to say hello or ask me anything using my email before you leave.
 
 ## Research Interests
-I enjoy working at the intersection of Artificial Intelligence, public and environmental health and community resilience. I am interested in Graph and Physics-informed Neural Network Models, Mathematical modelling, Uncertainty Quantification and Explainable Forecasting, Spatio-temporal modeling of infectious diseases and Data-driven / Scenario-based modelling of policy interventions.
+I enjoy working at the intersection of Data science, public and environmental health and community resilience. I am interested in Graph and Physics-informed Neural Network Models, Mathematical modelling, Uncertainty Quantification and Explainable Forecasting, Spatio-temporal modeling of infectious diseases and Data-driven / Scenario-based modelling of policy interventions.
 <br>
 Generally, I am always curious about how our world operates, and whether we can find a theory that will explain it all..
   
