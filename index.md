@@ -9,7 +9,7 @@ Hi! I’m Jibrin. I love building projects and following my curiosity. I am alwa
 - **2022** - Master degree in Artificial Intelligence and Data Analytics from the Institute for Digital Technologies at Loughborough University London 
 - **2019** - Bachelor degree in Computer Science from University of Jos, Nigeria.
 
-## Work
+## Work Experience
 I currently work as a research assistant at the Department of Computer Science, University of Jos, where I focus on modeling spatiotemporal dynamics and forecasting outbreaks of Lassa fever and other infectious diseases in Nigeria.
 Previously, I served as a senior Machine Learning Engineer at <a href="https://greysoft.ng">Greysoft Technologies</a>, Nigeria, leading a team of three ML engineers. Together, we tackled local challenges in education, agriculture, and the food supply chain, which led to the creation of impactful startups like  <a href="https://agrobays.com">AgroBays Agrofoods </a>,  <a href="https://app.5minutes.ng">5Minutes </a>, and the BRIT App (Bookkeeping, Receipting, Invoice, and Tax).
 I have also contributed to several research initiatives, including projects funded by New Venture Fund through Data.org and Microsoft, the Embassy of France in Nigeria's Solidarity Fund for Innovative Projects, and the NIH-supported K43 project (K43TW011416) at JUTH.
@@ -36,7 +36,7 @@ Find out what I have been up to recently on  <a rel="me" href="https://linkedin.
 {% include_relative _includes/publications.md %}
 
 <!--{% include_relative _includes/services.md %} -->
-## Membership
+## Profession Membership
 I am a member of <a href="http://www.sigecom.org">ACM Special Interest Group (SIGecom) on Economics and Computation </a>, Effective Altruism Network (EA Nigeria & EA Global). I am also affiliated with <a href="https://blackinai.github.io/#/">Black in AI</a> and <a href="https://www.datasciencenigeria.org">Data Scientists Network</a> formerly, Data Science Nigeria.
 
 ## Misc
