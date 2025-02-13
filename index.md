@@ -19,7 +19,7 @@ Thanks a lot to the support of my advisors and my sponsors, I am able to conduct
 
 ## Research Interests
 <img src="assets/img/wavy.gif">
-I enjoy working at the intersection of AI, public health, and community resilience. I am interested in Bayesian modelling, Uncertainty Quantification, and Explainable Forecasting of infectious diseases.I currently learning and exploring research papers on graph neural networks, epidemiological-informed neural networks <br>
+I enjoy working at the intersection of AI, public health, and community resilience. I am interested in Bayesian modelling, Uncertainty Quantification, and Explainable Forecasting of infectious diseases.I currently learning and exploring research papers on graph neural networks and epidemiological-informed neural networks <br>
 Generally, I am always curious about how our world operates, and whether we can find a theory that will explain it all..
   
 ## Recent News 
