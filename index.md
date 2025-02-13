@@ -18,7 +18,8 @@ I have also contributed to several research initiatives, including projects fund
 Thanks a lot to the support of my advisors and my sponsors, I am able to conduct research and continue learning/building things that interest me.
 
 ## Research Interests
-I enjoy working at the intersection of Data science, public and environmental health and community resilience. I am interested in Graph and Physics-informed Neural Network Models, Mathematical modelling, Uncertainty Quantification and Explainable Forecasting, Spatio-temporal modeling of infectious diseases and Data-driven / Scenario-based modelling of policy interventions.
+<img src="assets/img/wavy.gif">
+I enjoy working at the intersection of AI, public health, and community resilience. I am interested in Bayesian modelling, Uncertainty Quantification, and Explainable Forecasting of infectious diseases.
 <br>
 Generally, I am always curious about how our world operates, and whether we can find a theory that will explain it all..
   
