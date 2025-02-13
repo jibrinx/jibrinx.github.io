@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-<p  align="right">[Last updated: 16-04-2024 at 15:02 pm]</p>
+<p  align="right">[Last updated: 16-01-2025 at 15:02 pm]</p>
 
 ## About Me
 Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all.. I am currently building <a href="http://adhere360.github.io">Adhere360 </a> to tackle Nigeria's pressing healthcare challenges by improving medication adherence and reduce non-adherence rates which are estimated to exceed 50% across chronic conditions like diabetes and hypertension in Nigeria. <br>I am passionate about pushing the boundaries in the tools and methods in the management of infectious diseases and contributing to better and prepared response in terms of policies, resources and management of novel future pandemics.
@@ -19,8 +19,7 @@ Thanks a lot to the support of my advisors and my sponsors, I am able to conduct
 
 ## Research Interests
 <img src="assets/img/wavy.gif">
-I enjoy working at the intersection of AI, public health, and community resilience. I am interested in Bayesian modelling, Uncertainty Quantification, and Explainable Forecasting of infectious diseases.
-<br>
+I enjoy working at the intersection of AI, public health, and community resilience. I am interested in Bayesian modelling, Uncertainty Quantification, and Explainable Forecasting of infectious diseases.I currently learning and exploring research papers on graph neural networks, epidemiological-informed neural networks <br>
 Generally, I am always curious about how our world operates, and whether we can find a theory that will explain it all..
   
 ## Recent News 
