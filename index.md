@@ -5,7 +5,7 @@ layout: homepage
 
 ## About Me
 <img src="assets/img/wavy.gif">
-Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all.. I am currently building <a href="http://redflowai.github.io">RedFLow Analytics </a> to ensure that no life is lost due to preventable blood shortages or inefficient transfusion decisions. Leveraging AI-powered predictive analytics, I am bridging the gap between critical need and timely intervention—empowering clinicians with data-driven insights to save lives, optimize blood resource allocation, and bring hope to patients in need. <br>
+Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all.. I am currently building <a href="http://redflowai.github.io">RedFLow Analytics </a> to ensure that no life is lost due to preventable blood shortages or inefficient transfusion decisions. I am using AI-powered predictive analytics to proactively bridge the gap between critical need and timely intervention to empower clinicians with data-driven insights to save lives, optimize blood resource allocation, and bring hope to patients in need. <br>
 
 ## Education
 - **2022** - Master degree in Artificial Intelligence and Data Analytics from the Institute for Digital Technologies at Loughborough University London 
