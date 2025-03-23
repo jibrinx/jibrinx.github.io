@@ -42,9 +42,9 @@ Find out what I have been up to recently on  <a rel="me" href="https://linkedin.
 I am a member of <a href="http://www.sigecom.org">ACM Special Interest Group (SIGecom) on Economics and Computation </a>, Effective Altruism Network (EA Nigeria & EA Global). I am also affiliated with <a href="https://blackinai.github.io/#/">Black in AI</a> and <a href="https://www.datasciencenigeria.org">Data Scientists Network</a> formerly, Data Science Nigeria.
 
 ## Misc
-For events fliers/invitation, you can download my potrait image <a href ="https://raw.githubusercontent.com/jbrnjfr/jbrnjfr.github.io/main/assets/img/IMG_5241.jpeg"> here </a> <br>
-A quote that has stayed with me all through life and work is <strong><i> "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."
-</i> by Nelson Mandela</strong> <br> Here are few person that I am most inspired by: Scott Alexander, Tyler Cowen, Paul Graham, Naval Ravikant, and Gwern. <br> 
+1) For events fliers/invitation, you can download my potrait image <a href ="https://raw.githubusercontent.com/jbrnjfr/jbrnjfr.github.io/main/assets/img/IMG_5241.jpeg"> here </a> <br>
+2) A quote that has stayed with me all through life and work is <strong><i> "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."
+</i> by Nelson Mandela</strong> <br> 3) Here are few person that I am most inspired by (in no particular order): Scott Alexander, Tyler Cowen, Paul Graham, Naval Ravikant, and Gwern. <br> <br> 
 I appreciate your interest in reading this snippet. Feel free to say hello or ask me anything using my email before you leave.
 
  <a href='http://www.freevisitorcounters.com'>Free Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=e2851f6f60d71cbaa285642eb1ba5e154a03c745'></script>
