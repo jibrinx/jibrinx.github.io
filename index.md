@@ -8,7 +8,7 @@ layout: homepage
 Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all.. I am currently building <a href="https://github.com/RedFlowAI/RedflowAI.github.io">RedFLow Analytics </a> to ensure that no life is lost due to preventable blood shortages or inefficient transfusion decisions. I am using AI-powered predictive analytics to proactively bridge the gap between critical need and timely intervention to empower clinicians with data-driven insights to save lives, optimize blood resource allocation, and bring hope to patients in need. <br>
 
 ## Education
-- **2022** - Master degree in Artificial Intelligence and Data Analytics from the Institute for Digital Technologies at Loughborough University London 
+- **2022** - Master degree in Artificial Intelligence and Data Analytics from the Institute of Digital Technologies at Loughborough University London 
 - **2019** - Bachelor degree in Computer Science from University of Jos, Nigeria.
 
 ## Work Experience
@@ -21,7 +21,7 @@ Thanks a lot to the support of my advisors and my sponsors, I am able to conduct
 <!-- 
 ## Research Interests
 
-I enjoy working at the intersection of AI, public health, and community resilience. I am interested in Bayesian modelling, Uncertainty Quantification, and Explainable Forecasting of infectious diseases.I currently learning and exploring research papers on graph neural networks and epidemiological-informed neural networks <br> / -->
+I enjoy working at the intersection of AI, public health, and community resilience. I am interested in Bayesian modelling, Uncertainty Quantification, and Explainable Forecasting of infectious diseases.I currently learning and exploring research papers on graph neural networks. Feel free to recommend me some good papers in this area <br> / -->
 
 ## Recent News 
 
@@ -42,8 +42,9 @@ Find out what I have been up to recently on  <a rel="me" href="https://linkedin.
 I am a member of <a href="http://www.sigecom.org">ACM Special Interest Group (SIGecom) on Economics and Computation </a>, Effective Altruism Network (EA Nigeria & EA Global). I am also affiliated with <a href="https://blackinai.github.io/#/">Black in AI</a> and <a href="https://www.datasciencenigeria.org">Data Scientists Network</a> formerly, Data Science Nigeria.
 
 ## Misc
-A quote that has stayed with me all through life and work is <strong><i> "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."
-</i> by Nelson Mandela</strong> <br> <br>
+For events fliers/invitation, you can download my potrait image <a href ="https://raw.githubusercontent.com/jbrnjfr/jbrnjfr.github.io/main/assets/img/IMG_5241.jpg"> here </a>
+ quote that has stayed with me all through life and work is <strong><i> "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."
+</i> by Nelson Mandela</strong> <br> Here are few person that I am most inspired by: Scott Alexander, Tyler Cowen, Paul Graham, Naval Ravikant, and Gwern. <br> 
 I appreciate your interest in reading this snippet. Feel free to say hello or ask me anything using my email before you leave.
 
  <a href='http://www.freevisitorcounters.com'>Free Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=e2851f6f60d71cbaa285642eb1ba5e154a03c745'></script>
