@@ -12,7 +12,7 @@ Hi! I’m Jibrin. I love building projects and following my curiosity. I am alwa
 - **2019** - Bachelor degree in Computer Science from University of Jos, Nigeria.
 
 ## Work Experience
-I currently work as a research assistant at the Department of Computer Science, University of Jos, where I focus on modeling spatiotemporal dynamics and forecasting outbreaks of Lassa fever and other infectious diseases in Nigeria.
+I work as a Research fellow at the West African Center for Emergiging and Infectious Diseases where I am contributing to research efforts in strengthening health systems and improving infectious disease control strategies in Nigeria (Particular Zoonotic diseases) My goal is build real time integrated surveillance systems that address the impact of climate change on the emergence and spread of Zoonotic Pathogens.
 Previously, I served as a senior Machine Learning Engineer at <a href="https://greysoft.ng">Greysoft Technologies</a>, Nigeria, leading a team of three ML engineers. Together, we tackled local challenges in education, agriculture, and the food supply chain, which led to the creation of impactful startups like  <a href="https://agrobays.com">AgroBays Agrofoods </a>,  <a href="https://app.5minutes.ng">5Minutes </a>, and the BRIT App (Bookkeeping, Receipting, Invoice, and Tax).
 I have also contributed to several research initiatives, including projects funded by New Venture Fund through Data.org and Microsoft, the Embassy of France in Nigeria's Solidarity Fund for Innovative Projects, and the NIH-supported K43 project (K43TW011416) at JUTH.
 <br>  
