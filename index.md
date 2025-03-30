@@ -21,7 +21,7 @@ Thanks a lot to the support of my advisors and my sponsors, I am able to conduct
 
 ## Research Interests
 
-I am interested in Bayesian modelling, Uncertainty Quantification, Computational Epidemiology, and Explainable Forecasting of infectious diseases.I am currently learning and exploring research papers on Simulation-based inference for Epidemiologica dynamics. Feel free to recommend me some good papers in this area <br> 
+I am interested in Bayesian modelling, Uncertainty Quantification, Computational Epidemiology, and Explainable Forecasting of infectious diseases. I am currently learning and exploring research papers on Simulation-based inference for Epidemiologica dynamics. Feel free to recommend me some good papers in this area <br> 
 
 ## Recent News 
 
