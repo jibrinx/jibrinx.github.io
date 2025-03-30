@@ -21,12 +21,12 @@ Thanks a lot to the support of my advisors and my sponsors, I am able to conduct
 <!-- 
 ## Research Interests
 
-I enjoy working at the intersection of AI, public health, and community resilience. I am interested in Bayesian modelling, Uncertainty Quantification, and Explainable Forecasting of infectious diseases.I currently learning and exploring research papers on graph neural networks. Feel free to recommend me some good papers in this area <br> / -->
+I enjoy working at the intersection of AI, public health, and community resilience. I am interested in Bayesian modelling, Uncertainty Quantification, and Explainable Forecasting of infectious diseases.I currently learning and exploring research papers on Simulation-based inference for Epidemiologica dynamics. Feel free to recommend me some good papers in this area <br> 
 
 ## Recent News 
 
 Find out what I have been up to recently on  <a rel="me" href="https://linkedin.com/in/jbrnjfr">LinkedIn</a>
-- **[March. 2025]** I will be visiting the University of Texas Medical branch as a Research trainee starting in Fall 2025.
+- **[March. 2025]** I will be visiting the University of Texas Medical branch at Galvestone, Texas as a Research trainee starting in Fall 2025.
 - **[April. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the #Microsoft #Gieva #datadotorg AI grant aimed at bringing women entrepreneurs in northern #Nigeria into the digital economy!<a href='https://x.com/jbrnjfr/status/1782014757182066887' target='-blank'>see pictures</a>
 - **[Dec. 2023]** Participated at the 3rd annual ML4H Symposium. <a href ='https://www.linkedin.com/posts/activity-7150626337832046592-xdIN?utm_source=share&utm_medium=member_desktop'>See attendance certificate</a>
 - **[Aug. 2023]** I delivered a keynote speech at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies.</a>
