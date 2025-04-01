@@ -53,4 +53,4 @@ I appreciate your interest in reading this snippet. Feel free to say hello or as
 
 <a href="https://info.flagcounter.com/wu9a"><img src="https://s01.flagcounter.com/map/wu9a/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=O65DFBEoMMCDyH8PO-ogFgIBijtcz7hMWYIFcurAHSw&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=O65DFBEoMMCDyH8PO-ogFgIBijtcz7hMWYIFcurAHSw&cl=ffffff&w=a"></script> -->
