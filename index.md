@@ -5,15 +5,15 @@ layout: homepage
 
 ## About Me
 <img src="assets/img/wavy.gif">
-<p align="justify"> Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all.. I am currently building <a href="https://github.com/RedFlowAI/RedflowAI.github.io">RedFLow Analytics </a> to ensure that no life is lost due to preventable blood shortages or inefficient transfusion decisions. I am using AI-powered predictive analytics to proactively bridge the gap between critical need and timely intervention to empower clinicians with data-driven insights to save lives, optimize blood resource allocation, and bring hope to patients in need. </p>
+<p align="justify"> Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all... I am currently building <a href="https://github.com/RedFlowAI/RedflowAI.github.io">RedFLow Analytics </a> to ensure that no life is lost due to preventable blood shortages or inefficient transfusion decisions. I am using AI-powered predictive analytics to proactively bridge the gap between critical need and timely intervention to empower clinicians with data-driven insights to save lives, optimize blood resource allocation, and bring hope to patients in need. </p>
 
 ## Education
 - **2022** - M.Sc.(With Distinction) in Artificial Intelligence and Data Analytics from the Institute of Digital Technologies at Loughborough University London 
 - **2019** - B.Sc.(Hons) in Computer Science from University of Jos, Nigeria.
 
 ## Work Experience
-<p align="justify"> I work as a Research fellow at the West African Center for Emerging and Infectious Diseases (WAC-EID) where I am contributing to research efforts in strengthening health systems and improving infectious disease control strategies in Nigeria (Particular Lassa Fever) My goal is build real time integrated surveillance systems that address the impact of climate change on the emergence and spread of Zoonotic Pathogens.<br>
 Previously, I served as a senior Machine Learning Engineer at <a href="https://greysoft.ng">Greysoft Technologies</a>, Nigeria, leading a team of three ML engineers. Together, we tackled local challenges in education, agriculture, and the food supply chain, which led to the creation of impactful startups like  <a href="https://agrobays.com">AgroBays Agrofoods </a>,  <a href="https://app.5minutes.ng">5Minutes </a>, and the BRIT App (Bookkeeping, Receipting, Invoice, and Tax).<br>
+<p align="justify"> I will be starting as a Research fellow at the West African Center for Emerging and Infectious Diseases (WAC-EID) under the D43 TRAIN grant where I will contribute to research efforts in strengthening health systems and improving infectious disease control strategies in Nigeria (Particularly Lassa Fever) My goal is build real time integrated surveillance systems that address the impact of climate change on the emergence and spread of Zoonotic Pathogens. <br>
 I have also contributed to several research initiatives, including projects funded by New Venture Fund through Data.org and Microsoft, the Embassy of France in Nigeria's Solidarity Fund for Innovative Projects, and the NIH-supported K43 project (K43TW011416) at JUTH.
 <br>  
 Thanks a lot to the support of my advisors and my sponsors, I am able to conduct research and continue learning/building things that interest me.
@@ -21,7 +21,7 @@ Thanks a lot to the support of my advisors and my sponsors, I am able to conduct
 
 ## Research Interests
 
-I am interested in Bayesian modelling, Uncertainty Quantification, Computational Epidemiology, and Explainable Forecasting of infectious diseases. I am currently learning and exploring research papers on Simulation-based inference for Epidemiologica dynamics. Feel free to recommend me some good papers in this area <br> 
+I am interested in Bayesian modelling, Uncertainty Quantification, Computational Epidemiology, and Explainable Forecasting of infectious diseases. I am currently learning and exploring research papers on Simulation-based inference for Epidemiological dynamics. Feel free to recommend me some good papers in this area <br> 
 
 ## Recent News 
 
