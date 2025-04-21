@@ -5,7 +5,7 @@ layout: homepage
 
 ## About Me
 <img src="assets/img/wavy.gif">
-<p align="justify"> Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all... I am currently building <a href="https://github.com/RedFlowAI/RedflowAI.github.io">RedFLow Analytics </a> to ensure that no life is lost due to preventable blood shortages or inefficient transfusion decisions. I am using AI-powered predictive analytics to proactively bridge the gap between critical need and timely intervention to empower clinicians with data-driven insights to save lives, optimize blood resource allocation, and bring hope to patients in need. </p>
+<p align="justify"> Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all... I am currently building <a href="https://Redflow.io">RedFLow Analytics </a> to ensure that no life is lost due to preventable blood shortages or inefficient transfusion decisions. I am using AI-powered predictive analytics to proactively bridge the gap between critical need and timely intervention to empower clinicians with data-driven insights to save lives, optimize blood resource allocation, and bring hope to patients in need. </p>
 
 ## Education
 - **2022** - M.Sc.(With Distinction) in Artificial Intelligence and Data Analytics from the Institute of Digital Technologies at Loughborough University London. 
@@ -45,7 +45,7 @@ I am a member of <a href="http://www.sigecom.org">ACM Special Interest Group (SI
 
 ## Misc
 <p align="justify">
-1) For events fliers/invitation, you can download my potrait image <a href ="https://raw.githubusercontent.com/jbrnjfr/jbrnjfr.github.io/main/assets/img/profiledp.jpg"> here </a> <br>
+1) For events fliers/invitation, you can download my potrait image <a href ="https://raw.githubusercontent.com/jbrnjfr/jbrnjfr.github.io/main/assets/img/IMG_4863.jpeg"> here </a> <br>
 2) A quote that has stayed with me all through life and work is <strong><i> "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."
 </i> by Nelson Mandela</strong> <br>
 3) Here are few person that I am most inspired by (in no particular order): Scott Alexander, Tyler Cowen, Paul Graham, Naval Ravikant, and Gwern. <br> <br> 
