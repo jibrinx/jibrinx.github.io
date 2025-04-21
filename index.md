@@ -45,7 +45,7 @@ I am a member of <a href="http://www.sigecom.org">ACM Special Interest Group (SI
 
 ## Misc
 <p align="justify">
-1) For events fliers/invitation, you can download my potrait image <a href ="https://raw.githubusercontent.com/jbrnjfr/jbrnjfr.github.io/main/assets/img/IMG_4863.jpeg"> here </a> <br>
+1) For events fliers/invitation, you can download my potrait image <a href ="https://raw.githubusercontent.com/jibrinx/jibrinx.github.io/main/assets/img/IMG_4863.jpeg"> here </a> <br>
 2) A quote that has stayed with me all through life and work is <strong><i> "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."
 </i> by Nelson Mandela</strong> <br>
 3) Here are few person that I am most inspired by (in no particular order): Scott Alexander, Tyler Cowen, Paul Graham, Naval Ravikant, and Gwern. <br> <br> 
