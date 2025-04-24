@@ -27,6 +27,7 @@ I am interested in Bayesian modelling, Uncertainty Quantification, Computational
 ## Recent News 
 
 Find out what I have been up to recently on  <a rel="me" href="https://linkedin.com/in/jbrnjfr">LinkedIn</a>
+- **[March. 2025]** I'm excited to announce that I'll be hosting my very first Spring ACX Everywhere Meetup in Jos, Nigeria on <b> April 18th! </b> It’ll be a space for thoughtful conversation, new ideas, and great people. You can find more details and RSVP on the event page on <a href= "https://www.lesswrong.com/events/u6pEyjcXCnSpyyzbo/jos-acx-meetups-everywhere-spring-2025"> LessWrong </a>
 - **[March. 2025]** I will be visiting the University of Texas Medical branch at Galveston, Texas as a Research trainee starting in Fall 2025.
 - **[April. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the #Microsoft #Gieva #datadotorg AI grant aimed at bringing women entrepreneurs in northern #Nigeria into the digital economy!
 - **[Dec. 2023]** Participated at the 3rd annual ML4H Symposium.
