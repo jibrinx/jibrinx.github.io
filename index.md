@@ -1,4 +1,4 @@
----
+d---
 layout: homepage
 ---
 <p  align="right">[Last updated: 16-03-2025 at 15:02 pm]</p>
@@ -29,10 +29,10 @@ I am interested in Bayesian modelling, Uncertainty Quantification, Computational
 Find out what I have been up to recently on  <a rel="me" href="https://linkedin.com/in/jbrnjfr">LinkedIn</a>
 - **[March. 2025]** I'm excited to announce that I'll be hosting my very first Spring ACX Everywhere Meetup in Jos, Nigeria on <b> April 18th! </b> It’ll be a space for thoughtful conversation, new ideas, and great people. You can find more details and RSVP on the event page on <a href= "https://www.lesswrong.com/events/u6pEyjcXCnSpyyzbo/jos-acx-meetups-everywhere-spring-2025"> LessWrong </a>
 - **[March. 2025]** I will be visiting the University of Texas Medical branch at Galveston, Texas as a Research trainee starting in Fall 2025.
-- **[April. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the #Microsoft #Gieva #datadotorg AI grant aimed at bringing women entrepreneurs in northern #Nigeria into the digital economy!
-- **[Dec. 2023]** Participated at the 3rd annual ML4H Symposium.
-- **[Aug. 2023]** I delivered a keynote speech at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies.</a>
-- **[Aug. 2023]** The AgroBays Agrofoods app is launched!
+- **[April. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the genAI for Skill fund by Microsoft and datadotorg aimed at boosting the confidence and sales capacity of low-income women entrepreneurs in northern Nigeria.
+- **[Dec. 2023]** I Participated at the 3rd annual ML4H Symposium organised by Association for Health learning inference.
+- **[Aug. 2023]** I delivered a keynote speech on The Current State of AI Governance and Safety in Nigeria at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies.</a>
+- **[Aug. 2023]** I launced the AgroBays Agrofoods app is launched!
 - **[Dec. 2022]** I bagged an MSc degree in AI and Data Analytics from <a href="https://www.lborolondon.ac.uk/study/masters-degrees/artificial-intelligence-data-analytics/"> Loughborough University London. </a>
 - **[Jul. 2020]** I presented a virtual poster of my undergraduate work on cervical cancer at the 21st ACM conference on economics and computation, EC 2020 in Budapest. <a href="https://ec20.sigecom.org/program/posters/"> link to poster</a>
 - **[Jun. 2020]** I presented my undergraduate project on cervical cancer at the Data Science Africa workshop, Kampala 2020 <a href="https://www.datascienceafrica.org/dsa2020kampala/schedule/#session-paper1">Link to event</a>
