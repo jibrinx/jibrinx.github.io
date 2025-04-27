@@ -27,9 +27,11 @@ I am interested in Bayesian modelling, Uncertainty Quantification, Computational
 ## Recent News 
 
 Find out what I have been up to recently on  <a rel="me" href="https://linkedin.com/in/jbrnjfr">LinkedIn</a>
-- **[March. 2025]** I'm excited to announce that I'll be hosting my very first Spring ACX Everywhere Meetup in Jos, Nigeria on <b> April 18th! </b> It’ll be a space for thoughtful conversation, new ideas, and great people. You can find more details and RSVP on the event page on <a href= "https://www.lesswrong.com/events/u6pEyjcXCnSpyyzbo/jos-acx-meetups-everywhere-spring-2025"> LessWrong </a>
-- **[March. 2025]** I will be visiting the University of Texas Medical branch at Galveston, Texas as a Research trainee starting in Fall 2025.
-- **[April. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the genAI for Skill fund by Microsoft and datadotorg aimed at boosting the confidence and sales capacity of low-income women entrepreneurs in northern Nigeria.
+- **[Apr. 2025]** I have been selected as a FutureKind AI fellow where I will be leveraging AI to improve Animal welfare
+- **[Apr. 2025]** I have been selected to participate in the Data Science Africa 2025 Summer School and Workshop, taking place at the University of Ibadan, Nigeria, from June 2nd to 6th, 2025.
+- **[Mar. 2025]** I'm excited to announce that I'll be hosting my very first Spring ACX Everywhere Meetup in Jos, Nigeria on <b> April 18th! </b> It’ll be a space for thoughtful conversation, new ideas, and great people. You can find more details and RSVP on the event page on <a href= "https://www.lesswrong.com/events/u6pEyjcXCnSpyyzbo/jos-acx-meetups-everywhere-spring-2025"> LessWrong </a>
+- **[Mar. 2025]** I will be visiting the University of Texas Medical branch at Galveston, Texas as a Research trainee starting in Fall 2025.
+- **[Apr. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the genAI for Skill fund by Microsoft and datadotorg aimed at boosting the confidence and sales capacity of low-income women entrepreneurs in northern Nigeria.
 - **[Dec. 2023]** I Participated at the 3rd annual ML4H Symposium organised by Association for Health learning inference.
 - **[Aug. 2023]** I delivered a keynote speech on The Current State of AI Governance and Safety in Nigeria at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai">deeplearning.AI </a>and <a href="https://greysoft.ng">Greysoft Technologies.</a>
 - **[Aug. 2023]** I launced the AgroBays Agrofoods app is launched!
