@@ -51,9 +51,9 @@ I am a member of <a href="http://www.sigecom.org"  target="_blank">ACM Special I
 2) A quote that has stayed with me all through life and work is <strong><i> "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."
 </i> by Nelson Mandela</strong> <br>
 3) Here are few person that I am most inspired by (in no particular order): Scott Alexander, Tyler Cowen, Paul Graham, Naval Ravikant, and Gwern. <br> <br> 
-I appreciate your interest in reading this snippet. Feel free to say hello or leave me a <a href="https://www.admonymous.co/jibrinx" target="_blank"> feedback here </a>a</p>
+I appreciate your interest in reading this snippet. Feel free to say hello or leave me a <a href="https://www.admonymous.co/jibrinx" target="_blank"> feedback here </a> </p>
 
 
-<a href="https://info.flagcounter.com/wu9a"  target="_blank"><img src="https://s01.flagcounter.com/map/wu9a/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/wu9a"  target="_blank"> <img src="https://s01.flagcounter.com/map/wu9a/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"> </a>
 
 <!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=O65DFBEoMMCDyH8PO-ogFgIBijtcz7hMWYIFcurAHSw&cl=ffffff&w=a"></script> -->
