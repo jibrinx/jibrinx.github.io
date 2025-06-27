@@ -7,6 +7,7 @@ layout: homepage
 ## About Me
 <img src="assets/img/wavy.gif">
 <p align="justify"> Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all... My research applies Quantitative methods including machine learning, advanced statistical and bioinformatics techniques to investigate key questions in epidemiology to address emerging public health challenges.
+</p>
 
 ## Education
 - **2022** - MS in Artificial Intelligence and Data Analytics from the Institute of Digital Technologies at Loughborough University London. 
