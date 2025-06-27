@@ -5,11 +5,11 @@ layout: homepage
 
 ## About Me
 <img src="assets/img/wavy.gif">
-<p align="justify"> Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all... I am currently building <a href="https://Redflow.io"  target="_blank">RedFLow Analytics </a> to ensure that no life is lost due to preventable blood shortages or inefficient transfusion decisions. I am using AI-powered predictive analytics to proactively bridge the gap between critical need and timely intervention to empower clinicians with data-driven insights to save lives, optimize blood resource allocation, and bring hope to patients in need. </p>
+<p align="justify"> Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all... My research applies Quantitative methods including machine learning, advanced statistical and bioinformatics techniques to investigate key questions in epidemiology to address emerging public health challenges.
 
 ## Education
-- **2022** - M.Sc.(With Distinction) in Artificial Intelligence and Data Analytics from the Institute of Digital Technologies at Loughborough University London. 
-- **2019** - B.Sc.(Hons) in Computer Science from University of Jos, Nigeria.
+- **2022** - MS in Artificial Intelligence and Data Analytics from the Institute of Digital Technologies at Loughborough University London. 
+- **2019** - BS (Hons) in Computer Science from University of Jos, Nigeria.
 
 ## Work Experience
 Previously, I served as a senior Machine Learning Engineer at <a href="https://greysoft.ng"  target="_blank">Greysoft Technologies</a>, Nigeria, leading a team of three ML engineers. Together, we tackled local challenges in education, agriculture, and the food supply chain, which led to the creation of impactful startups like  <a href="https://agrobays.com"  target="_blank">AgroBays Agrofoods </a>,  <a href="https://app.5minutes.ng"  target="_blank">5Minutes </a>, and the BRIT App (Bookkeeping, Receipting, Invoice, and Tax).<br>
