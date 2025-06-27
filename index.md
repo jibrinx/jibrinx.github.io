@@ -7,11 +7,11 @@ layout: homepage
 ## About Me
 <img src="assets/img/wavy.gif">
 <p align="justify"> Hi! I’m Jibrin. I love building projects and following my curiosity. I am always curious about how our world operates, and whether we can find a theory that will explain it all... My research applies Quantitative methods including machine learning, advanced statistical and bioinformatics techniques to investigate key questions in emerging infectious diseases and epidemiology.
+</p>
 
 ## Education
 - **2022** - MS in Artificial Intelligence and Data Analytics from the Institute of Digital Technologies at Loughborough University London. 
 - **2019** - BS (Hons) in Computer Science from University of Jos, Nigeria.
-</p>
 
 ## Work Experience
 <p align="justify"> I am a Research fellow at the West African Center for Emerging Infectious Diseases (WAC-EID) under the D43 TRAIN grant where I will contribute to research efforts in strengthening health systems and improving infectious disease control strategies in Nigeria (Particularly Lassa Fever) My goal is build real time integrated surveillance systems that address the impact of climate change on the emergence and spread of Zoonotic Pathogens.
@@ -27,17 +27,14 @@ Thanks a lot to the support of my advisors and my sponsors, I am able to conduct
 I am interested in Bayesian modelling, Uncertainty Quantification, Computational Epidemiology, and Explainable Forecasting of infectious diseases. I am currently learning and exploring research papers on Simulation-based inference for Epidemiological dynamics. Feel free to recommend me some good papers in this area <br> 
 
 ## Recent News 
-
-Find out what I have been up to recently on  <a rel="me" href="https://linkedin.com/in/jibrinx"  target="_blank">LinkedIn</a>
-- **[Apr. 2025]** I have been selected to participate in the Data Science Africa 2025 Summer School and Workshop, taking place at the University of Ibadan, Nigeria, from June 2nd to 6th, 2025.
-- **[Mar. 2025]** I'm excited to announce that I'll be hosting my very first Spring ACX Everywhere Meetup in Jos, Nigeria on <b> April 18th! </b> It’ll be a space for thoughtful conversation, new ideas, and great people. You can find more details and RSVP on the event page on <a href= "https://www.lesswrong.com/events/u6pEyjcXCnSpyyzbo/jos-acx-meetups-everywhere-spring-2025"  target="_blank"> LessWrong </a>
-- **[Mar. 2025]** I will be visiting the University of Texas Medical branch at Galveston, Texas as a Research trainee starting in Fall 2025.
-- **[Apr. 2024]** I delivered a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the genAI for Skill fund by Microsoft and datadotorg aimed at boosting the confidence and sales capacity of low-income women entrepreneurs in northern Nigeria.
-- **[Dec. 2023]** I Participated at the 3rd annual ML4H Symposium organised by Association for Health learning inference.
-- **[Aug. 2023]** I delivered a keynote speech on The Current State of AI Governance and Safety in Nigeria at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "  target="_blank"> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai"  target="_blank">deeplearning.AI </a>and <a href="https://greysoft.ng"  target="_blank">Greysoft Technologies.</a> 
+- **[Apr. 2025]** I will participate at the Data Science Africa 2025, Summer School and Workshop, taking place at the University of Ibadan, Nigeria, from June 2nd to 6th, 2025.
+- **[Mar. 2025]** I'll be hosting my very first Spring ACX Everywhere Meetup in Jos, Nigeria on <b> April 18th! </b> It’ll be a space for thoughtful conversation, new ideas, and great people. You can find more details and RSVP on the event page on <a href= "https://www.lesswrong.com/events/u6pEyjcXCnSpyyzbo/jos-acx-meetups-everywhere-spring-2025"  target="_blank"> LessWrong </a>
+- **[Mar. 2025]** I will be visiting the University of Texas Medical branch at Galveston, Texas as a Research fellow starting in Fall 2025.
+- **[Apr. 2024]** I will deliver a week-long training course on introduction to generative AI to women entrepreneurs at the University of Jos, Nigeria through the GenAI for Skill fund by Microsoft and datadotorg aimed at boosting the confidence and sales capacity of low-income women entrepreneurs in northern Nigeria.
+- **[Dec. 2023]** I will Participate at the 3rd annual ML4H Symposium organised by Association for Health learning inference.
+- **[Aug. 2023]** I will deliver a keynote speech on The Current State of AI Governance and Safety in Nigeria at the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7096848518631366656/ "  target="_blank"> Pie and AI</a> event jointly organised by <a href="https://www.deeplearning.ai"  target="_blank">deeplearning.AI </a>and <a href="https://greysoft.ng"  target="_blank">Greysoft Technologies.</a> 
 - **[Dec. 2022]** I bagged an MSc degree in AI and Data Analytics from <a href="https://www.lborolondon.ac.uk/study/masters-degrees/artificial-intelligence-data-analytics/"  target="_blank"> Loughborough University London. </a>
 - **[Jul. 2020]** I presented a virtual poster of my undergraduate work on cervical cancer at the 21st ACM conference on economics and computation, EC 2020 in Budapest. <a href="https://ec20.sigecom.org/program/posters/"  target="_blank"> link to poster</a>
-- **[Jun. 2020]** I presented my undergraduate project on cervical cancer at the Data Science Africa workshop, Kampala 2020 <a href="https://www.datascienceafrica.org/dsa2020kampala/schedule/#session-paper1"  target="_blank">Link to event</a>
 - **[Nov. 2018]** I led the Golden Halo team to 2018 NASA space apps challenge (Nigeria online qualification round) to 1st runners up victory <a href="https://2018.spaceappschallenge.org/challenges/what-world-needs-now/health-makes-wealth/teams/golden-halo-1/project/"  target="_blank">See challenge.</a>
 
 {% include_relative _includes/publications.md %}
