@@ -12,9 +12,9 @@ layout: homepage
 - **2019** - BS (Hons) in Computer Science from University of Jos, Nigeria.
 
 ## Work Experience
-Previously, I served as a senior Machine Learning Engineer at <a href="https://greysoft.ng"  target="_blank">Greysoft Technologies</a>, Nigeria, leading a team of three ML engineers. Together, we tackled local challenges in education, agriculture, and the food supply chain, which led to the creation of impactful startups like  <a href="https://agrobays.com"  target="_blank">AgroBays Agrofoods </a>,  <a href="https://app.5minutes.ng"  target="_blank">5Minutes </a>, and the BRIT App (Bookkeeping, Receipting, Invoice, and Tax).<br>
-<p align="justify"> I will be starting as a Research fellow at the West African Center for Emerging Infectious Diseases (WAC-EID) under the D43 TRAIN grant where I will contribute to research efforts in strengthening health systems and improving infectious disease control strategies in Nigeria (Particularly Lassa Fever) My goal is build real time integrated surveillance systems that address the impact of climate change on the emergence and spread of Zoonotic Pathogens.
+<p align="justify"> I am a Research fellow at the West African Center for Emerging Infectious Diseases (WAC-EID) under the D43 TRAIN grant where I will contribute to research efforts in strengthening health systems and improving infectious disease control strategies in Nigeria (Particularly Lassa Fever) My goal is build real time integrated surveillance systems that address the impact of climate change on the emergence and spread of Zoonotic Pathogens.
 <br> <br>
+Previously, I served as a senior Machine Learning Engineer at <a href="https://greysoft.ng"  target="_blank">Greysoft Technologies</a>, Nigeria, leading a team of three ML engineers. Together, we tackled local challenges in education, agriculture, and the food supply chain, which led to the creation of impactful startups like  <a href="https://agrobays.com"  target="_blank">AgroBays Agrofoods </a>,  <a href="https://app.5minutes.ng"  target="_blank">5Minutes </a>, and the BRIT App (Bookkeeping, Receipting, Invoice, and Tax).<br>
 I have also contributed to a number of research initiatives, including projects funded by New Venture Fund through Data.org and Microsoft, the Embassy of France in Nigeria's Solidarity Fund for Innovative Projects, and the NIH-supported K43 project (K43TW011416) at JUTH.
 <br>  
 Thanks a lot to the support of my advisors and my sponsors, I am able to conduct research and continue learning/building things that interest me.
@@ -27,7 +27,6 @@ I am interested in Bayesian modelling, Uncertainty Quantification, Computational
 ## Recent News 
 
 Find out what I have been up to recently on  <a rel="me" href="https://linkedin.com/in/jibrinx"  target="_blank">LinkedIn</a>
-- **[Apr. 2025]** I have been selected as a FutureKind AI fellow where I will be leveraging AI to improve Animal welfare
 - **[Apr. 2025]** I have been selected to participate in the Data Science Africa 2025 Summer School and Workshop, taking place at the University of Ibadan, Nigeria, from June 2nd to 6th, 2025.
 - **[Mar. 2025]** I'm excited to announce that I'll be hosting my very first Spring ACX Everywhere Meetup in Jos, Nigeria on <b> April 18th! </b> It’ll be a space for thoughtful conversation, new ideas, and great people. You can find more details and RSVP on the event page on <a href= "https://www.lesswrong.com/events/u6pEyjcXCnSpyyzbo/jos-acx-meetups-everywhere-spring-2025"  target="_blank"> LessWrong </a>
 - **[Mar. 2025]** I will be visiting the University of Texas Medical branch at Galveston, Texas as a Research trainee starting in Fall 2025.
