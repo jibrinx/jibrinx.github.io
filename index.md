@@ -11,7 +11,7 @@ layout: homepage
 ## Education
 - **2022** - MS in Artificial Intelligence and Data Analytics from the Institute of Digital Technologies at Loughborough University London. 
 - **2019** - BS (Hons) in Computer Science from University of Jos, Nigeria.
-
+</p>
 ## Work Experience
 <p align="justify"> I am a Research fellow at the West African Center for Emerging Infectious Diseases (WAC-EID) under the D43 TRAIN grant where I will contribute to research efforts in strengthening health systems and improving infectious disease control strategies in Nigeria (Particularly Lassa Fever) My goal is build real time integrated surveillance systems that address the impact of climate change on the emergence and spread of Zoonotic Pathogens.
 <br> <br>
