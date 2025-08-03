@@ -23,54 +23,6 @@ main:
     notes: Collaborative Project
     image: ./assets/img/watn.png
     
-  - title: "Advanced Deep Q-Network for Precision Irrigation Scheduling in Northern Nigeria"
-    authors: "I developed an advanced Deep Q-Network (DQN) model for optimal irrigation scheduling in Northern Nigeria with more complex environmental variables. The environment simulates factors such as soil type, crop type, historical weather data, and the growth stage of crops using advanced techniques like Double DQN, Dueling DQN, and Prioritized Experience Replay to improve learning stability, reduce overestimation bias, and prioritize important learning experiences.These enhancements allow the agent to more accurately predict the optimal irrigation levels needed for various crop and soil conditions, ultimately leading to more efficient water use and improved crop yields."    
-    # conference_short: CVPR
-    conference_short: 21LLP131
-    #conference: Reinforcement Learning
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://colab.research.google.com/drive/1Uh1S2HE5zmDAtUwzdZ5GS-5F3tDP54Kc?usp=sharing
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Reinforcement Learning coursework on Precision Irrigation
-    image: ./assets/img/deepq.jpg
-
-  - title: "Gibbs sampling with a 2D Gaussian distribution: Optimizing Crop Growth with Soil Moisture and Fertilizer Levels"
-    authors: "This article explores the use of Gibbs sampling, a Markov Chain Monte Carlo (MCMC) method, to optimize crop growth by refining estimates of soil moisture and fertilizer levels, which are crucial interrelated variables in agriculture. Gibbs sampling is introduced as a solution for dealing with complex joint probability distributions that are difficult to sample from directly, especially when variables are highly dependent"    
-    # conference_short: CVPR
-   # conference_short: 21LLP131
-    #conference: Reinforcement Learning
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://medium.com/@jbrnjfr/gibbs-sampling-with-a-2d-gaussian-distribution-3bd073a78979
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Crop Monitoring
-    image: ./assets/img/agrobays.webp
-
-  - title: Robust identification of fall army worm infestation on maize fields of small African farmholders. 
-    authors: This study focuses on the robust identification of fall army worm infestation in maize fields owned by small African farmholders. The research aims to develop effective methods for accurately and reliably detecting the presence of fall army worm infestations, addressing a significant threat to the agricultural productivity of small-scale farmers in Africa. The findings of this study are crucial for implementing timely and targeted interventions to mitigate the impact of fall army worm infestations on maize crops, thereby contributing to the resilience and sustainability of smallholder farming in the region.
-    conference_short: 21LLP501
-    #conference: <strong>MSc Dissertation</strong>
-    pdf: https://www.researchgate.net/publication/383749736_Towards_Efficient_Maize_Crop_Health_Monitoring_From_Fusion_of_Vegetation_and_Fall_armyworm_Images_Using_Multi-task_Learning
-    # code: https://github.com/jibrinx/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/fallarmy.jpg
-    notes: MSc Dissertation
-
-
-
-  - title: Semi-supervised fabric defect detection based on image reconstruction and density estimation.
-    authors: In this project I present a semi-supervised approach to fabric defect detection utilising image reconstruction and density estimation techniques. I used the existing AITEX and DAGM 2007 datasets and a convolutional autoencoder was trained to learn the normal patterns of non-defective fabrics. The autoencoder is then used to reconstruct fabric images, with reconstruction errors serving as indicators of potential defects. To enhance defect detection, Kernel Density Estimation (KDE) we applied to model the distribution of reconstruction errors, enabling the identification of anomalies based on density scores. In this way I was able to effectively detect fabric defects with limited labelled data. I evaluated the model using accuracy, precision, and recall metrics, yield 87.5, 80.2, 78.7 respectively showing promising results in identifying defective fabrics.
-    
-    conference_short: 21LLP133
-    #conference:  <strong>Advance Big Data Analytics</strong>
-    # pdf: https://drive.google.com/file/d/12jqyUomRVPk0SsdlIJQ6hy_By348fajR/view
-    code: https://github.com/jbrnjfr/FabricsDefects
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/text.png
-    notes: Advance Big Data Analytics coursework
-
-
   - title: Mathematical Modelling of Anti-Malaria Drug resistance.
     authors: I focused on developing a comprehensive model for anti-malaria drug resistance. This involved a thorough examination of parasite population dynamics, drug treatment impacts, host immune responses, and various epidemiological factors. My findings contributed to the formulation of effective strategies for combating drug-resistant malaria.
     conference_short: MTH308
