@@ -29,7 +29,7 @@ I’m building a career at the intersection of genomics, epidemiology, and compu
 ## Recent News 
 
 - **[Jul. 2025]** Abstract accepted at the 2025 ECOWAS Lassa fever international conference, Abidjan
-
+- **[Jul. 2025]** Paper accepted at the BraTS 2025 lighthouse challenge, MICCAI 2025, Daejeon, South Korea
 - **[Jun. 2025]** I participated at the Data Science Africa 2025, Summer School and Workshop, which took place at the University of Ibadan, Nigeria, from June 2nd to 6th, 2025.
 - **[Apr. 2025]** I'll be hosting my very first Spring ACX Everywhere Meetup in Jos, Nigeria on <b> April 18th! </b> It’ll be a space for thoughtful conversation, new ideas, and great people. You can find more details and RSVP on the event page on <a href= "https://www.lesswrong.com/events/u6pEyjcXCnSpyyzbo/jos-acx-meetups-everywhere-spring-2025"  target="_blank"> LessWrong </a>
 - **[Mar. 2025]** I will be visiting UTMB Health as a Research fellow starting in Fall 2025.
