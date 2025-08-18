@@ -1,14 +1,13 @@
 
 main:
 
-  - title: Towards increasing cervical cancer screening uptake and reducing mortality rates in Nigeria.
-    authors: <strong> Jibrin Jaafaru *</strong>, Nentawe Gurumdimma, Innocent Emmanuel, Nyam Chuwang (*Main author)
-    conference_short: EC'20
-    conference: The Twenty-First ACM Conference on Economics and Computation  <strong>(EC'20)</strong>, 2020.
+  - title: Inferring Underreporting in Lassa Fever Surveillance in Nigeria via Simulation-Based Modeling with Climatic Covariates
+    authors: <strong> Jibrin Jaafaru *</strong>, Nentawe Gurumdimma, Shehu Nathan (*Main author)
+    conference_short: ECOWAS LIC
+    conference: 2ND ECOWAS LASSA FEVER INTERNATIONAL CONFERENCE <strong>(ECOWAS LIC)</strong>,Abidjan, 2025.
     pdf: https://www.researchgate.net/publication/371864756_Towards_increasing_Cervical_Cancer_screening_uptake_and_reducing_mortality_in_Nigeria
     # code: https://github.com/jibrinx/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Towards increas 0.png
+    image: ./assets/img/ecowaslic.png
     notes: Conference Poster [Accepted]
 
     
