@@ -5,17 +5,17 @@ main:
     authors: Jibrin Jaafaru *, Gurumdimma Nentawe, Shehu Nathan (* First author)
     conference_short: ECOWAS LIC
     conference: 2ND ECOWAS LASSA FEVER INTERNATIONAL CONFERENCE <strong>(ECOWAS LIC)</strong>,Abidjan, 2025.
-    pdf: https://www.researchgate.net/publication/371864756_Towards_increasing_Cervical_Cancer_screening_uptake_and_reducing_mortality_in_Nigeria
+    pdf: https://www.wahooas.org/web-ooas/sites/default/files/publications/2600/ecowaslicposterfinalversion2.pdf
     # code: https://github.com/jibrinx/ContinualLearning
     image: ./assets/img/ecowaslic.png
     notes: Conference Poster [Accepted]
 
     
   - title: BraTs SSAfrica Challenge 2025
-    authors: Katuka Yashim, Jibrin Jaafaru, 
+    authors: Katuka Yashim, Gbenga Oderinde, Iheanacho Victor, Jibrin Jaafaru, Zhang Dong, Confidence Raymond, Udunna Anazodo, Oluyemi Aboyewa, Lukman Ismaila
     conference_short: MICCAI 2025
     conference: MICCAI 2025
-    pdf: https://www.researchgate.net/publication/382439478_A_Mathematical_Model_for_Anti-Malarial_Resistance
+    pdf: https://drive.google.com/file/d/1MTkagsvp6bgWVApEn9v4JGySnqYPAyX8/view?usp=sharing
     # code: https://github.com/jibrinx/ContinualLearning
     image: ./assets/img/miccai.png
     notes: BraTs SSAfrica Challenge 2025
