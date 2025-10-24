@@ -6,7 +6,7 @@ layout: homepage
 
 ## About Me
 <img src="assets/img/wavy.gif">
-<p align="justify"> Hi! I’m Jibrin. I love research and following my curiosity. My research applies Quantitative methods including machine learning, advanced statistical and bioinformatics techniques to investigate key questions in emerging infectious diseases and epidemiology.
+<p align="justify"> I apply quantitative methods — including machine learning, biostatistics, and epidemiological modeling to study the emergence and spread of infectious diseases. I’m driven by curiosity about how data can help us understand/predict outbreaks and improve public health response.
 </p>
 
 ## Education
@@ -14,7 +14,7 @@ layout: homepage
 - **2019** - BS (Hons) in Computer Science from University of Jos, Nigeria.
 
 ## Work Experience
-<p align="justify"> I am currently a Research fellow at the West African Center for Emerging Infectious Diseases (WAC-EID) I am learning and contributing to research efforts in strengthening health systems and improving infectious disease control strategies in Nigeria (Particularly Lassa Fever, I'm investigating how viral evolution, rodent population dynamics, and environmental variability influence spillover and outbreak risk). The broader goal is to understand the dynamics of emerging infectious diseases and how to better prevent and respond to them.
+<p align="justify"> I am currently a Research fellow at the West African Center for Emerging Infectious Diseases (WAC-EID) I am learning and contributing to research efforts in strengthening health systems and improving infectious disease control strategies in Nigeria (Particularly Lassa Fever, I'm investigating how viral evolution, rodent population dynamics, and environmental variability influence spillover and outbreak risk). The broader goal is to understand the dynamics of emerging infectious diseases and how to better prevent/respond to them.
 <br> <br>
 Previously, I served as a Machine Learning Engineer at <a href="https://greysoft.ng"  target="_blank">Greysoft Technologies</a>, Nigeria, where I led the ML engineering/softwre engineering team to build  <a href="https://agrobays.com"  target="_blank">AgroBays Agrofoods </a> and <a href="https://app.5minutes.ng"  target="_blank">5Minutes </a>
 I have also contributed to a number of research initiatives, including projects funded by EV, New Venture Fund through Data.org and Microsoft, the Embassy of France in Nigeria's Solidarity Fund for Innovative Projects, and the NIH-supported K43 project (K43TW011416) at JUTH.
@@ -24,7 +24,7 @@ Thanks a lot to the support of my advisors and my sponsors, I am able to conduct
 
 ## Research Interests
 
-I’m building a career at the intersection of biostatistics, epidemiology, and machine learning, with a focus on improving how we model, detect, and respond to infectious disease outbreaks—especially in Africa. My work explores how Bayesian modeling, uncertainty quantification, and simulation-based inference can make epidemic forecasting more accurate, interpretable, and actionable for real-world decision-making. I care deeply about open and reproducible science and ensuring that the benefits of these tools reach the people and places most at risk.  <br> 
+I’m building a career at the intersection of biostatistics, epidemiology, and machine learning, with a focus on improving how we model, detect, and respond to infectious disease outbreaks. My work explores how Bayesian modeling, uncertainty quantification, and simulation-based inference can make epidemic forecasting more accurate, interpretable, and actionable for real-world decision-making. I care deeply about open and reproducible science and ensuring that the benefits of these methods/tools reach the people and places most at risk.  <br> 
 
 ## Recent News 
 
