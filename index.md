@@ -28,7 +28,9 @@ I’m building a career at the intersection of biostatistics, epidemiology, and 
 
 ## Recent News 
 
+- **[June. 2026]** I will attend the Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID) at Emory University. Huge thanks to the generous Halloran Scholarship!
 - **[April. 2026]** I presented our research poster on TrinetX Real-World Cohort Analysis of Renal Outcomes in Dengue Hemorrhagic Fever Patients at the McLaughlin Colloquium, UTMB.
+- **[Mar. 2026]** I attended Emergent Ventures unconference at Arlington, Virginia.
 - **[Jul. 2025]** Our abstract was accepted for presentation at the ECOWAS Lassa Fever International Conference in Abidjan.
 - **[Jul. 2025]** Our paper was accepted at the BraTS 2025 Lighthouse Challenge, MICCAI'25 in Daejeon, South Korea
 - **[Jun. 2025]** I will attend the Data Science Africa 2025 (Summer School & Workshop) at the University of Ibadan, Nigeria.
