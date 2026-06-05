@@ -42,11 +42,11 @@ I’m building a career at the intersection of biostatistics, epidemiology, and 
 - **[Jul. 2020]** I presented my undergraduate poster on cervical cancer at the 21st ACM Conference on Economics and Computation (EC 2020) in Budapest. <a href="https://ec20.sigecom.org/program/posters/"  target="_blank"> link to poster</a>
 - **[Nov. 2018]** I led Team Golden Halo to a 1st Runners-Up finish at the 2018 NASA Space Apps Challenge (Nigeria Online Round). <a href="https://2018.spaceappschallenge.org/challenges/what-world-needs-now/health-makes-wealth/teams/golden-halo-1/project/"  target="_blank">See challenge.</a>
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
 <!--{% include_relative _includes/services.md %} -->
 ## Profession Membership
-I am a member of <a href="http://www.sigecom.org"  target="_blank">ACM Special Interest Group (SIGecom) on Economics and Computation </a>, Effective Altruism Network (EA Nigeria & EA Global). I am also affiliated with <a href="https://blackinai.github.io/#/"  target="_blank">Black in AI</a> and <a href="https://www.datasciencenigeria.org"  target="_blank">Data Scientists Network</a> formerly, Data Science Nigeria.
+I am a member of <a href="http://www.sigecom.org"  target="_blank">ACM Special Interest Group (SIGecom) on Economics and Computation </a> and Nigeria Computer Society. I am also affiliated with <a href="https://blackinai.github.io/#/"  target="_blank">Black in AI</a>
 
 ## Misc
 
