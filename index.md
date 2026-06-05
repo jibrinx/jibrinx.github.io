@@ -6,7 +6,7 @@ layout: homepage
 
 ## About Me
 <img src="assets/img/wavy.gif">
-<p align="justify"> I apply quantitative methods — including machine learning, biostatistics, and epidemiological modeling to study the emergence and spread of infectious diseases. I’m driven by curiosity about how data can help us understand/predict outbreaks and improve public health response.
+<p align="justify"> I build novel mathematical, statistical, and computational models/tools to study the emergence and spread of infectious diseases. I’m driven by curiosity about how data can help us understand/predict outbreaks and improve public health preparedness/response.
 </p>
 
 ## Education
