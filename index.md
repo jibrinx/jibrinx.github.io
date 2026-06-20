@@ -16,7 +16,7 @@ layout: homepage
 ## Work Experience
 <p align="justify"> I am currently a Research fellow at the UTMB/West African Center for Emerging Infectious Diseases (WAC-EID) I am learning and contributing to research efforts in strengthening health systems and improving infectious disease control strategies in Nigeria (Particularly Lassa Fever, I'm investigating how viral evolution, rodent population dynamics, and environmental variability influence spillover and outbreak risk). The broader goal is to understand the dynamics of emerging infectious diseases and how to better prevent/respond to them.
 <br> <br>
-Previously, I served as a Machine Learning Engineer at <a href="https://greysoft.ng"  target="_blank">Greysoft Technologies</a>, Nigeria, where I led the ML engineering/softwre engineering team to build  <a href="https://agrobays.com"  target="_blank">AgroBays Agrofoods </a> and <a href="https://app.5minutes.ng"  target="_blank">5Minutes </a>
+Previously, I served as a Machine Learning Engineer at <a href="https://greysoft.ng"  target="_blank">Greysoft Technologies</a>, Nigeria, where I led the ML/software engineering team to build  <a href="https://agrobays.com"  target="_blank">AgroBays Agrofoods </a> and <a href="https://app.5minutes.ng"  target="_blank">5Minutes </a>
 I have also contributed to a number of research initiatives, including projects funded by EV, New Venture Fund through Data.org and Microsoft, the Embassy of France in Nigeria's Solidarity Fund for Innovative Projects, and the NIH-supported K43 project (K43TW011416) at JUTH.
 <br>  
 Thanks a lot to the support of my advisors and my sponsors, I am able to conduct research and continue learning/building things that interest me.
