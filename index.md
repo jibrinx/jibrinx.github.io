@@ -50,8 +50,7 @@ I am a member of <a href="http://www.sigecom.org"  target="_blank">ACM Special I
 
 ## Misc
 
-1) A quote that has stayed with me all through life and work is <strong><i> "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."
-</i> by Nelson Mandela</strong> <br>
+1) Fav quote: ‘It is Far Better to Light a Candle than Curse the Darkness’
 2) Here are few person that I am most inspired by (in no particular order): Scott Alexander, Tyler Cowen, David Deutsch, and Naval Ravikant. <br> <br> 
 I appreciate you taking the time to read this. Feel free to AMA or share <a href="https://www.admonymous.co/jibrinx" target="_blank"> feedback here </a> 
 
